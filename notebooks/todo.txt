@@ -1,0 +1,26 @@
+1.a. discuss most popular chord progression - 476 songs!
+1.b. show genre breakdown of the 476 (i predict most will be pop/rock)
+1.c. show most popular chord progression by genre
+ 
+2.a. most popular chords - histogram
+2.b. if most popular is G, what's the most popular that comes before it
+2.c. if most popular is G, what's the most popular that comes after it
+
+3.a. predictive model with labels = 1st chord
+3.b. predictive model with labels = 2nd chord
+3.c. predictive model with labels = 3rd chord
+3.d. predictive model with labels = 4th chord
+
+4. predictive model train on one genre (classical), predict on all genres
+
+5. sankey plot 
+
+
+
+
+
+
+
+
+
+

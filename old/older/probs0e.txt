@@ -1,0 +1,4619 @@
+
+
+Unable to extract for b7,56/6,264,5/2
+
+Unable to extract for 5,6,2,6
+
+Unable to extract for 57/2,565/2,5/5,6
+
+Unable to extract for 7/6,67,4,5
+
+Unable to extract for 6,642,1,16
+
+Unable to extract for 1,5/5,4,6
+
+Unable to extract for 1,2,564/6,6
+
+Unable to extract for 4,5,6,26
+
+Unable to extract for 27,37,47,4
+
+Unable to extract for 265,57,6,L7
+
+Unable to extract for 37,47,6,164
+
+Unable to extract for 6,47,1,5
+
+Unable to extract for 6,b7,6,164
+
+Unable to extract for 665,17,L27,M77
+
+Unable to extract for 4,265,47,265
+
+Unable to extract for 5,6,1,36
+
+Unable to extract for 16,5,6,4
+
+Unable to extract for 67,542,1,164
+
+Unable to extract for b3,564,56/2,542/5
+
+Unable to extract for 4,2,4,27
+
+Unable to extract for b7,1,5,27
+
+Unable to extract for 5,3,2,1
+
+Unable to extract for 2,16,4,57
+
+Unable to extract for 5,1,4,2
+
+Unable to extract for 5,1,4,2
+
+Unable to extract for b7,4,b7,1
+
+Unable to extract for 5,1,364,67
+
+Unable to extract for 6,56/6,642,26
+
+Unable to extract for 4,3,2,b7
+
+Unable to extract for 164,5,4,3
+
+Unable to extract for 1,3,5,2
+
+Unable to extract for 5,4,5,3
+
+Unable to extract for 57/2,M27,57,17
+
+Unable to extract for 6,1,57/4,4
+
+Unable to extract for 5/2,2,5,3
+
+Unable to extract for 6,564,4,3
+
+Unable to extract for 4,3,36,5/2
+
+Unable to extract for 4,b7,4,164
+
+Unable to extract for 365,6,L7,Y7
+
+Unable to extract for 1,4,542,16
+
+Unable to extract for 7/6,D67,7/7,77
+
+Unable to extract for 6,4,5,67
+
+Unable to extract for 4,1,16,464/4
+
+Unable to extract for 4,2,4,L7
+
+Unable to extract for 37,47,1,37
+
+Unable to extract for 5,1,56/2,27
+
+Unable to extract for 6,164,4,7/5
+
+Unable to extract for 5/6,4,1,5/6
+
+Unable to extract for 265,2,37,6
+
+Unable to extract for 27,3,6,265
+
+Unable to extract for 564,Y66,Y26,564
+
+Unable to extract for 2,4,6,56
+
+Unable to extract for b3,b6,L27,5
+
+Unable to extract for 27,37,47,36
+
+Unable to extract for 1,16,47,6
+
+Unable to extract for 664,5/2,56,564
+
+Unable to extract for 264,164,4,5
+
+Unable to extract for 5,56/6,6,56
+
+Unable to extract for 36,6,56,47
+
+Unable to extract for 5,6,3,16
+
+Unable to extract for 27,5,564/3,3
+
+Unable to extract for 5,4,464,5
+
+Unable to extract for 3,47,5,2
+
+Unable to extract for b6,b4,5,56
+
+Unable to extract for 364,6,5,3
+
+Unable to extract for 1,5,b3,b7
+
+Unable to extract for 17,47,37,Y37
+
+Unable to extract for 1,3,5/5,67
+
+Unable to extract for 47,27,b37,47
+
+Unable to extract for b3,27,57,b3
+
+Unable to extract for 16,464,6,5
+
+Unable to extract for 6,1,142,4
+
+Unable to extract for 66,56,564,1
+
+Unable to extract for 16,164,66,643
+
+Unable to extract for 5/6,57/6,4,66
+
+Unable to extract for 2,67,2,57
+
+Unable to extract for 5,27,3,5
+
+Unable to extract for 365,4,1,5
+
+Unable to extract for 67,164,b57,265
+
+Unable to extract for 2,56/6,6,56
+
+Unable to extract for 5,57,b6,5
+
+Unable to extract for 4,164,5,6
+
+Unable to extract for 56,1,3,2
+
+Unable to extract for 6,164,4,16
+
+Unable to extract for 5,4,5/6,47
+
+Unable to extract for 1,3,5,3
+
+Unable to extract for 6,2,C3,6
+
+Unable to extract for 5,4,36,5
+
+Unable to extract for 6,b7,5,565/6
+
+Unable to extract for 1,57,1,17
+
+Unable to extract for 5/6,664,5/6,6
+
+Unable to extract for 5,1,4,5/6
+
+Unable to extract for 5/6,6,2,3
+
+Unable to extract for 5/2,17,47,57
+
+Unable to extract for 47,17,47,67
+
+Unable to extract for 1,4,16,5/5
+
+Unable to extract for 1,37,6,37
+
+Unable to extract for 1,17,164,1
+
+Unable to extract for 3,2,3,5/2
+
+Unable to extract for 1,56,5/5,47/6
+
+Unable to extract for 16,564,1,56
+
+Unable to extract for 664,6,7/3,664
+
+Unable to extract for 6,2,L7,L76
+
+Unable to extract for 4,1,5/5,3
+
+Unable to extract for 3,4,67,5
+
+Unable to extract for 5,1,6,5
+
+Unable to extract for 5,1,6,5
+
+Unable to extract for 5,1,6,5
+
+Unable to extract for 57/4,47,b4,1
+
+Unable to extract for 665,27,6,665
+
+Unable to extract for 5,b6,5/2,5/5
+
+Unable to extract for 6,5,2,5
+
+Unable to extract for 47,4,665,1
+
+Unable to extract for 6,67,365,2
+
+Unable to extract for 5,67,4,67
+
+Unable to extract for 164,4,464,5
+
+Unable to extract for 642,2,242,264
+
+Unable to extract for 6,56,66,4
+
+Unable to extract for 3,27,57,1
+
+Unable to extract for b4,4,1,57
+
+Unable to extract for 36,4,36,1
+
+Unable to extract for 664,564,3,16
+
+Unable to extract for 16,5/5,1,5/5
+
+Unable to extract for 1,6,67,464
+
+Unable to extract for 4,56,1,56
+
+Unable to extract for 665,67,L27,57
+
+Unable to extract for 27,1,56,6
+
+Unable to extract for b7,1,b7,6
+
+Unable to extract for 67,4,3,2
+
+Unable to extract for 57,47,56/2,5/2
+
+Unable to extract for 1,6,4,5/7
+
+Unable to extract for 46,27,2,4
+
+Unable to extract for 4,5,56,2
+
+Unable to extract for 57/5,27,1,56
+
+Unable to extract for 365,6,D47,5/6
+
+Unable to extract for 57,17,L77,27
+
+Unable to extract for 57,b3,b37,27
+
+Unable to extract for 4,5,4,17
+
+Unable to extract for 1,5,4,5/7
+
+Unable to extract for 5,56,1,265
+
+Unable to extract for 56,2,6,2
+
+Unable to extract for 5,2,1,b1
+
+Unable to extract for 6,2,6,57/6
+
+Unable to extract for 17,47,57/3,5/6
+
+Unable to extract for 6,4,3,6
+
+Unable to extract for 6,4,3,6
+
+Unable to extract for 57/6,M37,57/2,27
+
+Unable to extract for 66,2,66,6
+
+Unable to extract for 2,6,57,2
+
+Unable to extract for 4,5/6,67,57/5
+
+Unable to extract for 5,67,5,4
+
+Unable to extract for 1,5/5,67,5
+
+Unable to extract for 1,164,1,6
+
+Unable to extract for 17,27,47,17
+
+Unable to extract for b6,6,4,1
+
+Unable to extract for 6,36,4,1
+
+Unable to extract for 1,464,57,1
+
+Unable to extract for 164,5,1,4
+
+Unable to extract for 57/4,b4,C67,L46
+
+Unable to extract for 6,5,5/5,6
+
+Unable to extract for 6,66,5/6,5/2
+
+Unable to extract for 3,16,26,27
+
+Unable to extract for 4,1,56,1
+
+Unable to extract for 5,3,265,6
+
+Unable to extract for 2,6,2,664
+
+Unable to extract for 67,5,1,67
+
+Unable to extract for b7,6,1,56
+
+Unable to extract for 67,5,47,3
+
+Unable to extract for 1,2,265,57/6
+
+Unable to extract for 6,2,6,b4
+
+Unable to extract for 27,67,5,16
+
+Unable to extract for 1,6,L7,1
+
+Unable to extract for 5,3,6,4
+
+Unable to extract for 5,3,6,4
+
+Unable to extract for 5,3,6,4
+
+Unable to extract for 5,1,5,6
+
+Unable to extract for 5,1,5,6
+
+Unable to extract for 5,1,5,6
+
+Unable to extract for 5,1,5,6
+
+Unable to extract for 5,1,5,6
+
+Unable to extract for 16,27,5,1
+
+Unable to extract for 4,6,5,27
+
+Unable to extract for 1,2,6,5
+
+Unable to extract for 1,2,6,5
+
+Unable to extract for 365,265,5/5,1
+
+Unable to extract for 2,6,4,164
+
+Unable to extract for 4,2,1,L7
+
+Unable to extract for b7,1,5,D3
+
+Unable to extract for 6,7,1,564
+
+Unable to extract for 6,5,4,16
+
+Unable to extract for 6,5,4,16
+
+Unable to extract for 665,643,67,D37
+
+Unable to extract for 6,67,1,4
+
+Unable to extract for 16,b3,2,Y27
+
+Unable to extract for 57/6,2,242,77
+
+Unable to extract for 4,5,664,164
+
+Unable to extract for 66,26,2,664
+
+Unable to extract for 27,67,543/4,57/4
+
+Unable to extract for 4,5,6,b7
+
+Unable to extract for 1,6,1,5
+
+Unable to extract for 5,37,27,67
+
+Unable to extract for 67,L27,265,664
+
+Unable to extract for 66,6,2,6
+
+Unable to extract for 4,47,5,37
+
+Unable to extract for 67,37,M57,27
+
+Unable to extract for 1,2,3,26
+
+Unable to extract for 47,2,57,1
+
+Unable to extract for 16,5,56,1
+
+Unable to extract for 1,464,46/4,56
+
+Unable to extract for b6,b3,b6,b3
+
+Unable to extract for 5,6,4,56
+
+Unable to extract for 67,5,5/5,6
+
+Unable to extract for 47,4,1,343
+
+Unable to extract for 36,26,36,M57
+
+Unable to extract for 56/6,5/6,6,2
+
+Unable to extract for 6,57/6,6,4
+
+Unable to extract for 1,5,542,1
+
+Unable to extract for 2,5,4,D3
+
+Unable to extract for 67,16,L265,4
+
+Unable to extract for 57/6,67,b37,5
+
+Unable to extract for 642,27,37,47
+
+Unable to extract for 57,1,4,5/5
+
+Unable to extract for 16,4,1,16
+
+Unable to extract for 5,57,5,b7
+
+Unable to extract for 5/5,57,1,543/6
+
+Unable to extract for 265,665,5,27
+
+Unable to extract for 6,2,56,1
+
+Unable to extract for 265,57/6,67,642
+
+Unable to extract for 4,36,56,6
+
+Unable to extract for 4,37,6,5
+
+Unable to extract for 56,1,36,4
+
+Unable to extract for 6,4,164,4
+
+Unable to extract for 3,664,3,664
+
+Unable to extract for 5/6,4,1,76/2
+
+Unable to extract for 27,442,4,57
+
+Unable to extract for 564,6,4,3
+
+Unable to extract for 5/5,27,1,564
+
+Unable to extract for 16,1,5/5,4
+
+Unable to extract for 5,1,164,6
+
+Unable to extract for 3,6,1,2
+
+Unable to extract for 2,Y2,1,6
+
+Unable to extract for 1,56,36,16
+
+Unable to extract for 664,5,1,56
+
+Unable to extract for 3,6,3,4
+
+Unable to extract for 67,164,57,67
+
+Unable to extract for 6,4,2,6
+
+Unable to extract for 6,4,2,6
+
+Unable to extract for 57,5,57,164
+
+Unable to extract for 4,b4,165,67
+
+Unable to extract for 3,6,47,5
+
+Unable to extract for 1,5,6,5/5
+
+Unable to extract for 6,642,77/5,4
+
+Unable to extract for 464,4,464,27
+
+Unable to extract for 2,16,67,57
+
+Unable to extract for 16,47,1,77/5
+
+Unable to extract for 27,57,37,57/2
+
+Unable to extract for 16,5,2,b7
+
+Unable to extract for b6,b7,5,b7
+
+Unable to extract for 4,5,5/6,4
+
+Unable to extract for 5/5,66,6,5/6
+
+Unable to extract for 2,5,2,5
+
+Unable to extract for 2,5,2,5
+
+Unable to extract for 242,1,242,6
+
+Unable to extract for 4,L27,1,3
+
+Unable to extract for 164,5,4,2
+
+Unable to extract for 4,642,665,6
+
+Unable to extract for 6,27,6,5
+
+Unable to extract for 4,5,1,L7
+
+Unable to extract for 5/6,1,5,5/6
+
+Unable to extract for 5,164,5,1
+
+Unable to extract for 364,L77,46,56
+
+Unable to extract for 6,1,b4,2
+
+Unable to extract for 67,27,164,464
+
+Unable to extract for 2,57,1,3
+
+Unable to extract for 27,16,4,67
+
+Unable to extract for 66,564/6,6,664
+
+Unable to extract for 7/6,6,164,4
+
+Unable to extract for b3,b4,b77,1
+
+Unable to extract for 2,27,5,47
+
+Unable to extract for 37,4,1,27
+
+Unable to extract for 6,4,5,4
+
+Unable to extract for 6,4,5,4
+
+Unable to extract for 26,664,4,564
+
+Unable to extract for 5,2,5,26
+
+Unable to extract for 7,664,6,M76
+
+Unable to extract for 4,47,4,37
+
+Unable to extract for 5,1,16,164
+
+Unable to extract for b3,4,b3,1
+
+Unable to extract for 1,3,5/6,4
+
+Unable to extract for 57,67,164,57
+
+Unable to extract for 47,6,1,4
+
+Unable to extract for 5/2,5,4,3
+
+Unable to extract for b6,5,4,1
+
+Unable to extract for 542,1,5,542
+
+Unable to extract for 4,b3,543,1
+
+Unable to extract for 6,1,56,6
+
+Unable to extract for 27,57,1,4
+
+Unable to extract for 3,4,27,1
+
+Unable to extract for 5/6,17,6,1
+
+Unable to extract for 67,4,2,4
+
+Unable to extract for 3,343,27,3
+
+Unable to extract for 242,1,4,1
+
+Unable to extract for 1,5,1,L7
+
+Unable to extract for 6,67,6,665
+
+Unable to extract for 1,5,b6,5
+
+Unable to extract for 4,2,4,2
+
+Unable to extract for 1,L27,4,37
+
+Unable to extract for 6,26,36,1
+
+Unable to extract for 5/5,6,5/5,6
+
+Unable to extract for b7,4,16,b6
+
+Unable to extract for 66,1,66,36
+
+Unable to extract for 6,7,1,4
+
+Unable to extract for 564,2,664,4
+
+Unable to extract for 1,665,3,565/4
+
+Unable to extract for 1,27,3,26
+
+Unable to extract for 67,27,1,6
+
+Unable to extract for 5,4,1,57/6
+
+Unable to extract for 6,57/6,5,5/5
+
+Unable to extract for 27,5,17,67
+
+Unable to extract for 2,164,5,2
+
+Unable to extract for 3,6,7,5/6
+
+Unable to extract for 1,67,3,1
+
+Unable to extract for 2,56,M77,2
+
+Unable to extract for 46,56,1,2
+
+Unable to extract for 5,57/6,4,1
+
+Unable to extract for 1,17,4,1
+
+Unable to extract for 2,3,6,3
+
+Unable to extract for 364,6,4,5
+
+Unable to extract for 642,4,57/6,6
+
+Unable to extract for 17,47,17,2
+
+Unable to extract for 6,36,47,37
+
+Unable to extract for 27,77,M443,564/2
+
+Unable to extract for b6,5,565,1
+
+Unable to extract for 27,37,67,4
+
+Unable to extract for 67,16,27,17
+
+Unable to extract for 6,5,4,b4
+
+Unable to extract for 164,4,D442,27
+
+Unable to extract for 4,b3,1,b3
+
+Unable to extract for 6,1,6,5/5
+
+Unable to extract for 1,37,343,37
+
+Unable to extract for 3,4,57/5,1
+
+Unable to extract for 1,4,6,242
+
+Unable to extract for 66,4,5/6,6
+
+Unable to extract for 3,6,5/5,6
+
+Unable to extract for 1,564,37,67
+
+Unable to extract for b7,2,56,b7
+
+Unable to extract for 164,27,643,164
+
+Unable to extract for 4,6,66,3
+
+Unable to extract for 364,4,C6,b6
+
+Unable to extract for 47,17,542,37
+
+Unable to extract for b4,b2,6,46
+
+Unable to extract for b7,1,2,D3
+
+Unable to extract for 27,5,17,57/4
+
+Unable to extract for 37,1,47,37
+
+Unable to extract for 5,4,2,57/6
+
+Unable to extract for 4,365,6,1
+
+Unable to extract for 37,D37,164,L57
+
+Unable to extract for 1,5,7/6,4
+
+Unable to extract for 17,67,27,243
+
+Unable to extract for 1,5/5,5/6,1
+
+Unable to extract for 5,1,4,47
+
+Unable to extract for 56,6,5,57
+
+Unable to extract for 6,46,76/5,46
+
+Unable to extract for 3,4,1,37
+
+Unable to extract for 16,1,57/5,1
+
+Unable to extract for 4,5,57/6,6
+
+Unable to extract for 5/6,47,26,4
+
+Unable to extract for 6,164,47,b7
+
+Unable to extract for 46,1,5,4
+
+Unable to extract for 1,b7,6,5/5
+
+Unable to extract for 5,3,6,2
+
+Unable to extract for 5,3,6,2
+
+Unable to extract for 1,164,3,Y37
+
+Unable to extract for 2,17,2,1
+
+Unable to extract for 56,5,6,5
+
+Unable to extract for 364,47,16,67
+
+Unable to extract for 1,5,1,5/5
+
+Unable to extract for 6,5/6,6,2
+
+Unable to extract for 66,67,57,27
+
+Unable to extract for 2,6,b7,57/6
+
+Unable to extract for 3,365,2,5
+
+Unable to extract for 2,5,4,3
+
+Unable to extract for 66,4,66,2
+
+Unable to extract for 2,5,67,27
+
+Unable to extract for 57/5,b77,57/2,C67
+
+Unable to extract for 6,4,365,66
+
+Unable to extract for 242,264,242,6
+
+Unable to extract for 1,6,4,56
+
+Unable to extract for 37,6,16,3
+
+Unable to extract for 664,57/6,D4,D47
+
+Unable to extract for 6,56,1,56/2
+
+Unable to extract for 6,5/6,4,1
+
+Unable to extract for 66,5,4,2
+
+Unable to extract for 27,16,164,6
+
+Unable to extract for 27,6,1,37
+
+Unable to extract for 6,4,5/6,5
+
+Unable to extract for b3,b6,1,5
+
+Unable to extract for 2,5,3,6
+
+Unable to extract for 664,57/6,6,2
+
+Unable to extract for 17,67,17,67
+
+Unable to extract for 57/6,4,5,1
+
+Unable to extract for 27,67,4,16
+
+Unable to extract for 67,2,17,67
+
+Unable to extract for 36,4,5,1
+
+Unable to extract for 77,664,57/6,6
+
+Unable to extract for 1,47,3,1
+
+Unable to extract for 5/6,4/3,3,4/3
+
+Unable to extract for 1,6,D47,5
+
+Unable to extract for 27,1,57/4,464
+
+Unable to extract for 6,1,3,47
+
+Unable to extract for 1,4,6,4
+
+Unable to extract for 1,4,6,4
+
+Unable to extract for 67,6,D3,D4
+
+Unable to extract for 47,165,67,27
+
+Unable to extract for 57,47,2,27
+
+Unable to extract for 164,56,1,364
+
+Unable to extract for 4,7/5,5,1
+
+Unable to extract for 66,6,7,5/6
+
+Unable to extract for 6,5/5,4,5/6
+
+Unable to extract for 56,3,5,6
+
+Unable to extract for 27,57/6,1,27
+
+Unable to extract for 56/6,6,17,27
+
+Unable to extract for 4,5/6,6,5/5
+
+Unable to extract for 1,5/6,4,6
+
+Unable to extract for 4,16,2,57/6
+
+Unable to extract for 564,b564,27,564
+
+Unable to extract for 464,47,27,1
+
+Unable to extract for 365,564/6,67,543/6
+
+Unable to extract for 66,2,543/6,66
+
+Unable to extract for 27,5,27,16
+
+Unable to extract for 6,164,47,5
+
+Unable to extract for 4,5,1,4
+
+Unable to extract for 4,5,1,4
+
+Unable to extract for 4,5,1,4
+
+Unable to extract for 4,5,1,4
+
+Unable to extract for 4,5,1,4
+
+Unable to extract for 4,5,1,4
+
+Unable to extract for 4,5,1,4
+
+Unable to extract for 4,5,1,4
+
+Unable to extract for 4,5,1,4
+
+Unable to extract for 4,5,1,4
+
+Unable to extract for 4,5,1,4
+
+Unable to extract for 5/5,3,5/7,5
+
+Unable to extract for 6,642,L4,4
+
+Unable to extract for b4,1,5/6,4
+
+Unable to extract for 164,3,6,164
+
+Unable to extract for 2,3,4,5/5
+
+Unable to extract for 67,1,L27,4
+
+Unable to extract for 2,1,3,26
+
+Unable to extract for 1,17,66,1
+
+Unable to extract for 1,36,5,6
+
+Unable to extract for 47,3,4/3,3
+
+Unable to extract for 1,3,6,3
+
+Unable to extract for 4,b4,1,57
+
+Unable to extract for 6,5,36,5
+
+Unable to extract for 6,66,2,56/3
+
+Unable to extract for 265,1,2,67
+
+Unable to extract for 1,6,364,b7
+
+Unable to extract for 664,6,664,6
+
+Unable to extract for b4,1,6,3
+
+Unable to extract for 57/5,6,4/7,1
+
+Unable to extract for 57,665,1,2
+
+Unable to extract for 16,564,542,57
+
+Unable to extract for 364,56,1,2
+
+Unable to extract for 4,2,1,5
+
+Unable to extract for 5,6,b7,4
+
+Unable to extract for 5,26,M77,5
+
+Unable to extract for 4,b4,1,6
+
+Unable to extract for 1,56,67,16
+
+Unable to extract for 4,1,2,b5
+
+Unable to extract for 16,2,5,3
+
+Unable to extract for 5,4,b3,b6
+
+Unable to extract for 365,47,365,47
+
+Unable to extract for 16,57/5,57,1
+
+Unable to extract for 6,5,3,5/5
+
+Unable to extract for 3,6,5,56
+
+Unable to extract for 2,7,17,b7
+
+Unable to extract for 56,6,3,2
+
+Unable to extract for 4,56/5,5,56/6
+
+Unable to extract for 2,57,1,27
+
+Unable to extract for 1,142,67,142
+
+Unable to extract for 26,1,5,3
+
+Unable to extract for 5,1,6,b4
+
+Unable to extract for 16,4,b3,2
+
+Unable to extract for 16,27,1,27
+
+Unable to extract for 5,164,5,164
+
+Unable to extract for 164,L4,4,5
+
+Unable to extract for 5/6,6,2,b7
+
+Unable to extract for 364,4,3,1
+
+Unable to extract for b7,4,2,5
+
+Unable to extract for 3,27,1,265
+
+Unable to extract for 1,4,b6,b7
+
+Unable to extract for 57,1,16,4
+
+Unable to extract for 5,564,4,6
+
+Unable to extract for 4,6,5,6
+
+Unable to extract for 4,6,5,6
+
+Unable to extract for 4,6,5,6
+
+Unable to extract for 564,4,5,5/2
+
+Unable to extract for 56,1,46,5
+
+Unable to extract for 4,57/6,2,242
+
+Unable to extract for b7,46,5,5/2
+
+Unable to extract for 6,b7,4,1
+
+Unable to extract for 4,542,47,4
+
+Unable to extract for 57/4,464,1,464
+
+Unable to extract for 564,664,464,1
+
+Unable to extract for 3,4,27,5
+
+Unable to extract for 564,6,1,564
+
+Unable to extract for 16,67,164,b47
+
+Unable to extract for 47,265,M57,57/4
+
+Unable to extract for 27,57/6,7/6,67
+
+Unable to extract for 6,67,47,37
+
+Unable to extract for 6,1,56,b7
+
+Unable to extract for 67,365,b57,47
+
+Unable to extract for 4,5,4,7/6
+
+Unable to extract for 57/4,57/3,b77,57/2
+
+Unable to extract for 67,27,5,17
+
+Unable to extract for 2,5,1,5/6
+
+Unable to extract for 1,57/6,57/2,27
+
+Unable to extract for 2,5/6,5/2,2
+
+Unable to extract for 1,L7,6,L7
+
+Unable to extract for 4,1,37,6
+
+Unable to extract for 542,1,5,L542
+
+Unable to extract for 6,36,4,3
+
+Unable to extract for 5,1,b4,5
+
+Unable to extract for 1,M142,6,b6
+
+Unable to extract for 1,4,47,6
+
+Unable to extract for 2,264,4,5
+
+Unable to extract for 4,b4,1,5
+
+Unable to extract for 6,1,37,27
+
+Unable to extract for 1,b4,1,3
+
+Unable to extract for 264,67,1,17
+
+Unable to extract for 1,464,57,67
+
+Unable to extract for 5,47,56,6
+
+Unable to extract for 57,6,b7,4
+
+Unable to extract for 664,5/6,6,5
+
+Unable to extract for 16,4,5,6
+
+Unable to extract for 16,4,5,6
+
+Unable to extract for 16,4,5,6
+
+Unable to extract for 56/6,6,56/6,5/6
+
+Unable to extract for 37,57/5,57,17
+
+Unable to extract for 16,b47,b7,7
+
+Unable to extract for 6,57/6,6,57/6
+
+Unable to extract for 57/5,57,17,57/4
+
+Unable to extract for 17,665,47,b27
+
+Unable to extract for 3,5,1,57/3
+
+Unable to extract for 6,17,27,6
+
+Unable to extract for 6,2,57,1
+
+Unable to extract for 4,5,564,3
+
+Unable to extract for b6,b7,1,56
+
+Unable to extract for b7,1,16,2
+
+Unable to extract for 4,L4,b46,M143
+
+Unable to extract for 6,4,164,5
+
+Unable to extract for 4,542,5/6,6
+
+Unable to extract for 4,56/6,6,56
+
+Unable to extract for 5,2,5/6,47
+
+Unable to extract for 47,5,6,47
+
+Unable to extract for 47,5,6,47
+
+Unable to extract for 4,5/5,M17,5
+
+Unable to extract for 242,7,37,M37
+
+Unable to extract for 27,37,47,2
+
+Unable to extract for 3,16,4,5
+
+Unable to extract for b6,5/2,5/5,5/2
+
+Unable to extract for 47,17,67,47
+
+Unable to extract for 5,67,b7,4
+
+Unable to extract for 164,1,164,464
+
+Unable to extract for 1,b7,6,Y6
+
+Unable to extract for 1,5/6,2,4
+
+Unable to extract for 4,2,5,57
+
+Unable to extract for 4,7/6,6,36
+
+Unable to extract for 5/6,57/6,b7,4
+
+Unable to extract for 27,b7,4,b7
+
+Unable to extract for 5,27,66,6
+
+Unable to extract for 16,4,7/5,4
+
+Unable to extract for 6,5,17,5
+
+Unable to extract for b7,b77,6,2
+
+Unable to extract for 1,4,1,57/6
+
+Unable to extract for 5/6,1,56,5/6
+
+Unable to extract for 46,3,4,464
+
+Unable to extract for 6,1,57,1
+
+Unable to extract for 27,37,27,343
+
+Unable to extract for 4,664,27,56/3
+
+Unable to extract for 5,6,56,1
+
+Unable to extract for 5,6,56,1
+
+Unable to extract for 5,6,56,1
+
+Unable to extract for 57,4,16,27
+
+Unable to extract for 6,4,642,36
+
+Unable to extract for 1,16,b7,6
+
+Unable to extract for b4,b5,1,5/5
+
+Unable to extract for b3,5/5,5/3,C5
+
+Unable to extract for 3,5,1,5/3
+
+Unable to extract for 5,4,542,47
+
+Unable to extract for 2,1,4,1
+
+Unable to extract for 5,164,4,D3
+
+Unable to extract for 164,4,D16,5
+
+Unable to extract for 67,37,47,17
+
+Unable to extract for 27,17,57/4,47
+
+Unable to extract for 6,164,16,164
+
+Unable to extract for 5/5,1,5/5,56
+
+Unable to extract for 6,5/6,46,6
+
+Unable to extract for 57/2,L27,57,1
+
+Unable to extract for 47,2,37,4/3
+
+Unable to extract for 6,47,2,47/4
+
+Unable to extract for 57/4,4,57/2,27
+
+Unable to extract for 1,b4,1,5
+
+Unable to extract for 5,6,642,3
+
+Unable to extract for 3,1,4,5
+
+Unable to extract for b7,46,b46,5
+
+Unable to extract for 27,242,47,27
+
+Unable to extract for 6,b7,L7,1
+
+Unable to extract for 57/6,6,4,1
+
+Unable to extract for 2,6,1,4
+
+Unable to extract for 2,6,1,4
+
+Unable to extract for 1,66,1,36
+
+Unable to extract for 6,364,66,7
+
+Unable to extract for 6,b7,1,4
+
+Unable to extract for b7,6,4,2
+
+Unable to extract for 66,16,4,164
+
+Unable to extract for 5,4,5,56/6
+
+Unable to extract for 364,b7,4,1
+
+Unable to extract for 4,6,L3,4
+
+Unable to extract for b7,4,b3,27
+
+Unable to extract for 6,5/6,57/6,6
+
+Unable to extract for 5,b7,46,b7
+
+Unable to extract for 27,2,6,5
+
+Unable to extract for 1,5,L765,3
+
+Unable to extract for 5,1,27,16
+
+Unable to extract for 5/5,1,142,6
+
+Unable to extract for 57/2,27,57,57/6
+
+Unable to extract for 6,4,5,564
+
+Unable to extract for 5/2,2,57,1
+
+Unable to extract for 46,4,5,664
+
+Unable to extract for 5/6,4,b4,17
+
+Unable to extract for 47,2,3,4
+
+Unable to extract for 36,5/5,L27,6
+
+Unable to extract for 242,264,77,66
+
+Unable to extract for 3,1,5,1
+
+Unable to extract for 17,27,17,27
+
+Unable to extract for 57,17,M17,47
+
+Unable to extract for 47,67,47,3
+
+Unable to extract for 5,36,5,4
+
+Unable to extract for 5/6,4,b4,4
+
+Unable to extract for b7,Y4,b7,Y4
+
+Unable to extract for 6,16,5,1
+
+Unable to extract for 6,4,5,5/6
+
+Unable to extract for 56,6,3,b57
+
+Unable to extract for 1,5/2,1,Y3
+
+Unable to extract for 6,D6,7/6,542/2
+
+Unable to extract for 6,2,L7,5/6
+
+Unable to extract for 5,564,664,4
+
+Unable to extract for 5,37,4,27
+
+Unable to extract for 5/6,4,6,4
+
+Unable to extract for 77,57/6,6,27
+
+Unable to extract for 5/6,b3,2,b5
+
+Unable to extract for 6,46,4,6
+
+Unable to extract for 5,b7,6,1
+
+Unable to extract for 47,4,56,6
+
+Unable to extract for 5,6,5,26
+
+Unable to extract for b6,b3,b4,b57
+
+Unable to extract for 27,67,37,b57
+
+Unable to extract for 5,6,b7,1
+
+Unable to extract for 665,5,47,17
+
+Unable to extract for 564,2,564,27
+
+Unable to extract for 5/6,6,264,56/6
+
+Unable to extract for 1,364,6,b46
+
+Unable to extract for 5/2,2,5/2,b1
+
+Unable to extract for 1,164,36,6
+
+Unable to extract for 164,5,4,16
+
+Unable to extract for 5,464,1,4
+
+Unable to extract for 3,1,364,6
+
+Unable to extract for 4,1,L56,6
+
+Unable to extract for 4,16,27,7/5
+
+Unable to extract for 5,1,364,4
+
+Unable to extract for 26,16,76,66
+
+Unable to extract for 1,56,564,67
+
+Unable to extract for 6,642,47,664
+
+Unable to extract for 4,5,67,37
+
+Unable to extract for b6,4,1,4
+
+Unable to extract for 56,6,27,4
+
+Unable to extract for 5,1,47,4
+
+Unable to extract for 4,165,4,165
+
+Unable to extract for 47,6,143,5/6
+
+Unable to extract for 47,3,6,47
+
+Unable to extract for 56,1,46,b7
+
+Unable to extract for 4,b3,4,1
+
+Unable to extract for 6,264,56/6,164
+
+Unable to extract for 664,6,36,3
+
+Unable to extract for 4,6,5,1
+
+Unable to extract for 4,6,5,1
+
+Unable to extract for 4,6,5,1
+
+Unable to extract for 4,6,5,1
+
+Unable to extract for 4,6,5,1
+
+Unable to extract for 4,6,5,1
+
+Unable to extract for 57,565/6,57/6,6
+
+Unable to extract for 4,67,16,164
+
+Unable to extract for 37,564,17,L77
+
+Unable to extract for 6,1,4,1
+
+Unable to extract for 6,1,4,1
+
+Unable to extract for 2,b7,1,6
+
+Unable to extract for 47,6,5,4
+
+Unable to extract for 16,564,542/5,56
+
+Unable to extract for 1,6,5/6,5
+
+Unable to extract for 2,464,5,1
+
+Unable to extract for 2,37,6,642
+
+Unable to extract for 5/6,6,5,1
+
+Unable to extract for 47,4,2,442
+
+Unable to extract for 46,264,6,L264
+
+Unable to extract for 5,2,4,67
+
+Unable to extract for 5/6,6,264,5/6
+
+Unable to extract for 5,b6,b3,b6
+
+Unable to extract for b7,3,6,4
+
+Unable to extract for 664,4,6,664
+
+Unable to extract for 4,6,16,4
+
+Unable to extract for 665,2,5,6
+
+Unable to extract for 164,7/6,6,4
+
+Unable to extract for 2,6,2,3
+
+Unable to extract for 27,6,164,47
+
+Unable to extract for 4,3,b3,4
+
+Unable to extract for 16,1,56,46
+
+Unable to extract for 4,5,4,3
+
+Unable to extract for 4,1,56,5
+
+Unable to extract for 4,5,2,664
+
+Unable to extract for 5/6,6,47,1
+
+Unable to extract for 57,365,5,Y5
+
+Unable to extract for 57,5,57,5
+
+Unable to extract for 5,1,56,5/6
+
+Unable to extract for 4,57,b6,57
+
+Unable to extract for 164,16,b47,b443
+
+Unable to extract for 364,37,27,37
+
+Unable to extract for 47,17,27,47
+
+Unable to extract for 57/4,4,7/5,164
+
+Unable to extract for 2,b4,1,542/5
+
+Unable to extract for 27,5,Y5,57
+
+Unable to extract for 2,1,56,36
+
+Unable to extract for 27,3,1,56
+
+Unable to extract for 57/4,47,67,L27
+
+Unable to extract for 6,57/6,4,5/6
+
+Unable to extract for 564,1,56,5
+
+Unable to extract for 1,3,5/5,1
+
+Unable to extract for 6,b6,642,77/5
+
+Unable to extract for 4,6,4,37
+
+Unable to extract for 1,5,C6,C57
+
+Unable to extract for 67,2,6,67
+
+Unable to extract for 16,1,L7,6
+
+Unable to extract for 4,26,47,1
+
+Unable to extract for 2,37,D3,4
+
+Unable to extract for 564,464,4,1
+
+Unable to extract for 5/5,4,6,1
+
+Unable to extract for 27,16,47,57
+
+Unable to extract for 16,4,6,2
+
+Unable to extract for b3,5,1,3
+
+Unable to extract for 16,4,5,1
+
+Unable to extract for 16,4,5,1
+
+Unable to extract for 16,4,5,1
+
+Unable to extract for 4,464,3,6
+
+Unable to extract for 6,36,L26,2
+
+Unable to extract for 5/5,5/3,5,b3
+
+Unable to extract for 4,47,442,1
+
+Unable to extract for 664,4,464,2
+
+Unable to extract for 5/5,1,5,4
+
+Unable to extract for 5,6,5/5,6
+
+Unable to extract for 6,47,6,4
+
+Unable to extract for 1,47,265,D77
+
+Unable to extract for 5/2,4,D3,1
+
+Unable to extract for 2,b4,2,b4
+
+Unable to extract for 5,4,6,5/6
+
+Unable to extract for 6,1,5,b7
+
+Unable to extract for 464,564,5/6,664
+
+Unable to extract for 37,4,1,67
+
+Unable to extract for 57,1,5,1
+
+Unable to extract for 5,b3,4,b7
+
+Unable to extract for 1,5/5,3,4
+
+Unable to extract for 5,4,6,2
+
+Unable to extract for 5,5/5,4,5
+
+Unable to extract for 56,67,1,67
+
+Unable to extract for 1,4,5,57
+
+Unable to extract for 1,164,6,664
+
+Unable to extract for b6,5/2,5/5,5
+
+Unable to extract for 37,4,5,6
+
+Unable to extract for 5,2,3,47
+
+Unable to extract for 5,5/5,L77,5
+
+Unable to extract for 57,4,1,3
+
+Unable to extract for 4,16,57/5,57
+
+Unable to extract for 3,6,3,1
+
+Unable to extract for 3,5/6,b6,664
+
+Unable to extract for 6,1,365,6
+
+Unable to extract for 1,6,5/6,6
+
+Unable to extract for 1,27,47,37
+
+Unable to extract for 6,642,4,27
+
+Unable to extract for 4,5/6,47,5/6
+
+Unable to extract for 4,1,5/6,4
+
+Unable to extract for 464,1,4,57
+
+Unable to extract for 265,57,1,142
+
+Unable to extract for 1,6,4,57
+
+Unable to extract for 47,27,1,47
+
+Unable to extract for 1,6,5,5/5
+
+Unable to extract for 5/5,4,b6,1
+
+Unable to extract for 56,4,7/7,3
+
+Unable to extract for 642,27,66,6
+
+Unable to extract for 4,b46,2,5
+
+Unable to extract for 1,6,543/2,5/5
+
+Unable to extract for 4,D3,4,D3
+
+Unable to extract for 1,4,1,57/4
+
+Unable to extract for 5/6,57/6,6,4
+
+Unable to extract for 164,56/5,4,5/6
+
+Unable to extract for 2,b7,5/2,2
+
+Unable to extract for 4,6,67,1
+
+Unable to extract for 1,5,b7,2
+
+Unable to extract for 1,5,4,264
+
+Unable to extract for 67,3,4,2
+
+Unable to extract for 56,b1,b7,b66
+
+Unable to extract for 1,4,57/6,5/2
+
+Unable to extract for 6,665,3,6
+
+Unable to extract for 1,b5,2,L5
+
+Unable to extract for 26,2,26,66
+
+Unable to extract for 47,67,365,b57
+
+Unable to extract for b7,27,5,1
+
+Unable to extract for 17,6,36,265
+
+Unable to extract for 4,16,2,5/6
+
+Unable to extract for 56,16,4,67
+
+Unable to extract for 6,4,1,56
+
+Unable to extract for 6,4,1,56
+
+Unable to extract for 6,4,1,56
+
+Unable to extract for 6,46,36,66
+
+Unable to extract for 4,5,2,57/6
+
+Unable to extract for 47,6,7,5
+
+Unable to extract for 664,5/6,6,4
+
+Unable to extract for 6,7,6,7/6
+
+Unable to extract for 2,6,3,47
+
+Unable to extract for b7,2,6,1
+
+Unable to extract for 1,56,L5,5
+
+Unable to extract for 1,b7,1,4
+
+Unable to extract for 4,6,5,b7
+
+Unable to extract for 16,4,6,4
+
+Unable to extract for 67,37,164,4
+
+Unable to extract for 57/2,27,57,1
+
+Unable to extract for 27,17,47,37
+
+Unable to extract for 66,7,76,66
+
+Unable to extract for 6,365,265,37
+
+Unable to extract for 6,5,16,4
+
+Unable to extract for b4,1,b66,1
+
+Unable to extract for 5,3,6,5/5
+
+Unable to extract for 6,364,464,7
+
+Unable to extract for 1,164,1,37
+
+Unable to extract for 2,1,343,6
+
+Unable to extract for 1,564,664,464
+
+Unable to extract for 6,5,4,6
+
+Unable to extract for 6,5,4,6
+
+Unable to extract for 6,5,4,6
+
+Unable to extract for 6,5,4,6
+
+Unable to extract for 6,5,4,6
+
+Unable to extract for 6,5,4,6
+
+Unable to extract for 57,1,142,6
+
+Unable to extract for 6,37,27,5
+
+Unable to extract for 7/6,1,5,6
+
+Unable to extract for 6,4,442,27
+
+Unable to extract for 4,6,5,56
+
+Unable to extract for 27,47,67,5
+
+Unable to extract for 1,56,46,5
+
+Unable to extract for 1,2,4,57
+
+Unable to extract for 5,6,37,4
+
+Unable to extract for 36,37,6,164
+
+Unable to extract for 6,3,1,76/5
+
+Unable to extract for 6,664,6,36
+
+Unable to extract for 5/2,56/2,2,242
+
+Unable to extract for 56/6,46,56/2,27
+
+Unable to extract for 5,2,3,165
+
+Unable to extract for 2,37,4,5/6
+
+Unable to extract for 464,1,464,57
+
+Unable to extract for 77,57/6,6,5
+
+Unable to extract for 1,6,265,5
+
+Unable to extract for 2,6,4,6
+
+Unable to extract for 6,47,265,5
+
+Unable to extract for 3,1,56,7/6
+
+Unable to extract for 664,5/6,57/6,6
+
+Unable to extract for 1,164,46,56
+
+Unable to extract for 5,6,b6,5
+
+Unable to extract for 37,67,47,37
+
+Unable to extract for 27,5,6,37
+
+Unable to extract for 5,D3,b7,4
+
+Unable to extract for 5,3,6,56/5
+
+Unable to extract for 6,5,37,4
+
+Unable to extract for 564,5,6,66
+
+Unable to extract for 665,5,4,6
+
+Unable to extract for 564,47,464,4
+
+Unable to extract for 4,37,b3,b442
+
+Unable to extract for 4,5,67,M77
+
+Unable to extract for 3,66,2,47
+
+Unable to extract for 1,b7,4,b7
+
+Unable to extract for 4,57,57/6,6
+
+Unable to extract for 5,4,D5,D3
+
+Unable to extract for 5,6,57/2,6
+
+Unable to extract for 6,664,4,57
+
+Unable to extract for 5,1,67,3
+
+Unable to extract for 5,67,47,1
+
+Unable to extract for 37,365,565/6,67
+
+Unable to extract for b7,4,Y4,5
+
+Unable to extract for 27,6,5,56
+
+Unable to extract for 6,66,2,66
+
+Unable to extract for 2,664,66,7
+
+Unable to extract for 47,265,57,565/6
+
+Unable to extract for 664,2,3,4
+
+Unable to extract for 164,6,1,27
+
+Unable to extract for 664,b7,5/2,27
+
+Unable to extract for 3,4,56,6
+
+Unable to extract for 4,1,37,265
+
+Unable to extract for 1,665,57,6
+
+Unable to extract for 2,5,1,57/2
+
+Unable to extract for 6,1,5,6
+
+Unable to extract for 6,1,5,6
+
+Unable to extract for 6,1,5,6
+
+Unable to extract for 6,1,5,6
+
+Unable to extract for 57/6,565/6,67,57/5
+
+Unable to extract for 27,5,47,5
+
+Unable to extract for 6,5,4,2
+
+Unable to extract for 6,5,4,2
+
+Unable to extract for 6,5,4,2
+
+Unable to extract for 6,5,4,2
+
+Unable to extract for 5,4,66,664
+
+Unable to extract for 47,6,164,47
+
+Unable to extract for 4,6,5,16
+
+Unable to extract for 5,57,57/5,5
+
+Unable to extract for 264,5,27,b7
+
+Unable to extract for 4,5,5/5,5/2
+
+Unable to extract for 56,46,164,4
+
+Unable to extract for 17,67,27,b47
+
+Unable to extract for 47,5,5/2,5
+
+Unable to extract for 56,b7,4,b6
+
+Unable to extract for 27,4,442,4
+
+Unable to extract for 47,5,6,5
+
+Unable to extract for 6,664,L27,1
+
+Unable to extract for 6,5,4,265
+
+Unable to extract for 6,57/5,564,664
+
+Unable to extract for b7,4,5,Y3
+
+Unable to extract for 1,57/4,4,5/5
+
+Unable to extract for 3,2,5,6
+
+Unable to extract for 5,6,67,365
+
+Unable to extract for 7,36,2,3
+
+Unable to extract for 4,47,6,67
+
+Unable to extract for 5/6,6,1,57/6
+
+Unable to extract for 57/5,57,57/5,57
+
+Unable to extract for 56/6,67,643,665
+
+Unable to extract for 16,27,5,6
+
+Unable to extract for 5,57,4,5
+
+Unable to extract for 26,2,264,b76
+
+Unable to extract for 4,57,1,3
+
+Unable to extract for 4,5,67,b67
+
+Unable to extract for 57/2,27,265,36
+
+Unable to extract for 1,56,46,5/6
+
+Unable to extract for 6,37,165,47
+
+Unable to extract for 36,2,3,5
+
+Unable to extract for 164,5,642,67
+
+Unable to extract for 1,b7,6,b4
+
+Unable to extract for 6,47,37,5
+
+Unable to extract for 27,57,57/4,4
+
+Unable to extract for 16,b47,b443,b565
+
+Unable to extract for 164,1,5,1
+
+Unable to extract for 5,6,5,4
+
+Unable to extract for 5,6,5,4
+
+Unable to extract for 5,6,5,4
+
+Unable to extract for 5,6,5,4
+
+Unable to extract for 5,6,5,4
+
+Unable to extract for 5,6,5,4
+
+Unable to extract for 5,6,5,4
+
+Unable to extract for 5,6,5,4
+
+Unable to extract for 5,6,5,4
+
+Unable to extract for 5,6,5,4
+
+Unable to extract for 5,6,5,4
+
+Unable to extract for 5,6,5,4
+
+Unable to extract for b7,3,2,4
+
+Unable to extract for 57,67,57,67
+
+Unable to extract for 2,6,66,4
+
+Unable to extract for 26,76/2,57/2,2
+
+Unable to extract for 6,1,16,4
+
+Unable to extract for 4,1,4,164
+
+Unable to extract for 4,5/6,6,57/6
+
+Unable to extract for 5/6,4,b7,2
+
+Unable to extract for 4,5/5,1,4
+
+Unable to extract for 67,27,57,5
+
+Unable to extract for 5,5/6,6,642
+
+Unable to extract for 5/6,46,6,57/6
+
+Unable to extract for 1,M17,4,7/5
+
+Unable to extract for 2,57/2,565/2,5/5
+
+Unable to extract for 642,46/6,47,6
+
+Unable to extract for 4,16,7/3,2
+
+Unable to extract for 6,47,1,6
+
+Unable to extract for 27,1,b17,1
+
+Unable to extract for 242,Y77,464,b1
+
+Unable to extract for 6,4,7/5,57
+
+Unable to extract for 1,5/5,b37,4
+
+Unable to extract for 464,6,164,4
+
+Unable to extract for 265,16,265,543/4
+
+Unable to extract for 1,b7,27,5
+
+Unable to extract for 2,4,16,2
+
+Unable to extract for 3,1,3,L7
+
+Unable to extract for 57,264,6,3
+
+Unable to extract for 164,5/5,164,1
+
+Unable to extract for 5,1,L242,464
+
+Unable to extract for 3,37,5/2,2
+
+Unable to extract for 5,6,56,4
+
+Unable to extract for 5/6,6,364,66
+
+Unable to extract for 5,27,5,27
+
+Unable to extract for 5/6,542/6,564/6,6
+
+Unable to extract for 66,3,4,6
+
+Unable to extract for 67,143,464,27
+
+Unable to extract for 265,5,6,365
+
+Unable to extract for 57,57/6,67,b37
+
+Unable to extract for b6,b7,1,C67
+
+Unable to extract for 5,464,27,464
+
+Unable to extract for 1,6,264,67
+
+Unable to extract for 2,6,47,5
+
+Unable to extract for 6,47,5,6
+
+Unable to extract for 6,47,5,6
+
+Unable to extract for 164,47,27,6
+
+Unable to extract for 2,16,56,1
+
+Unable to extract for 6,5/3,1,3
+
+Unable to extract for 6,56,1,6
+
+Unable to extract for 164,5,57,5
+
+Unable to extract for 2,67,b164,1
+
+Unable to extract for 2,47,6,3
+
+Unable to extract for 5,67,642,664
+
+Unable to extract for 264,46,6,365
+
+Unable to extract for 3,4,1,16
+
+Unable to extract for b7,46,1,56
+
+Unable to extract for 1,4,1,16
+
+Unable to extract for 5,56/6,67,643
+
+Unable to extract for 6,4,2,1
+
+Unable to extract for 1,5,6,5
+
+Unable to extract for 1,5,6,5
+
+Unable to extract for 1,5,6,5
+
+Unable to extract for 1,5,6,5
+
+Unable to extract for 1,5,6,5
+
+Unable to extract for 6,L7,1,5
+
+Unable to extract for 47,1,47,1
+
+Unable to extract for 6,56,1,36
+
+Unable to extract for 27,57,67,57
+
+Unable to extract for 17,464,66,17
+
+Unable to extract for 27,67,5,37
+
+Unable to extract for 4,27,1,6
+
+Unable to extract for 57/2,27,5,17
+
+Unable to extract for 37,642,7,67
+
+Unable to extract for 1,4,1,b4
+
+Unable to extract for 1,b4,2,6
+
+Unable to extract for 5,1,6,D47
+
+Unable to extract for 464,46,4,464
+
+Unable to extract for 2,564,2,27
+
+Unable to extract for 5,4,1,7/6
+
+Unable to extract for 464,1,464,56
+
+Unable to extract for 1,2,16,464
+
+Unable to extract for 46,6,46,47
+
+Unable to extract for 37,67,57/2,27
+
+Unable to extract for 47,57,b7,7/2
+
+Unable to extract for 56,2,3,6
+
+Unable to extract for 164,4,2,6
+
+Unable to extract for 47,2,67,57
+
+Unable to extract for 4,1,L5,6
+
+Unable to extract for 664,5,164,3
+
+Unable to extract for 37,6,2,5
+
+Unable to extract for 67,37,17,37
+
+Unable to extract for 57/6,67,56/2,27
+
+Unable to extract for 642,1,5,464
+
+Unable to extract for 67,M57,67,M57
+
+Unable to extract for 4,5/6,6,77
+
+Unable to extract for 2,27,77,564/6
+
+Unable to extract for 6,164,47,27
+
+Unable to extract for 6,543/6,66,77
+
+Unable to extract for 37,47,C67,17
+
+Unable to extract for 1,57,6,Y4
+
+Unable to extract for 7,5/6,6,5/2
+
+Unable to extract for 642,56/5,5/5,5
+
+Unable to extract for 5,47,265,26
+
+Unable to extract for 1,2,4,26
+
+Unable to extract for 2,5/6,464,564
+
+Unable to extract for 57,6,3,b7
+
+Unable to extract for 16,564,5,1
+
+Unable to extract for 5/6,6,57/6,4
+
+Unable to extract for b7,4,b7,4
+
+Unable to extract for 1,56,6,b27
+
+Unable to extract for 36,66,36,564
+
+Unable to extract for 5,5/2,5,5/2
+
+Unable to extract for 3,4,1,464
+
+Unable to extract for b4,165,6,4
+
+Unable to extract for 6,642,5/3,57/3
+
+Unable to extract for 6,26,5,1
+
+Unable to extract for 1,16,26,2
+
+Unable to extract for 16,2,1,5
+
+Unable to extract for 27,67,1,5
+
+Unable to extract for 46,6,27,5/6
+
+Unable to extract for 17,47,17,47
+
+Unable to extract for 2,17,67,D77
+
+Unable to extract for 16,4,1,4
+
+Unable to extract for 17,4,b7,M77
+
+Unable to extract for b4,5,1,b4
+
+Unable to extract for 4,1,5,56/6
+
+Unable to extract for 1,47,27,47
+
+Unable to extract for 4,5/6,Y3,5/6
+
+Unable to extract for 4,1,27,4
+
+Unable to extract for 2,6,b7,M5
+
+Unable to extract for 46,164,M5,26
+
+Unable to extract for 3,b7,57,1
+
+Unable to extract for 6,16,1,47
+
+Unable to extract for 16,4,164,565/6
+
+Unable to extract for 264,5/2,264,5/2
+
+Unable to extract for 164,5,16,67
+
+Unable to extract for b7,6,M5,6
+
+Unable to extract for 1,56,6,56/6
+
+Unable to extract for 4,27,5,3
+
+Unable to extract for 56,5,4,5
+
+Unable to extract for 17,2,17,2
+
+Unable to extract for 6,57,1,6
+
+Unable to extract for 5,4,16,57/5
+
+Unable to extract for 2,6,4,2
+
+Unable to extract for 2,6,4,2
+
+Unable to extract for 3,1,6,5
+
+Unable to extract for 16,5,4,67
+
+Unable to extract for 1,2,b7,5/3
+
+Unable to extract for 16,4,164,7/6
+
+Unable to extract for 5,4,b4,1
+
+Unable to extract for 17,5,27,67
+
+Unable to extract for 57/6,5/6,67,Y4
+
+Unable to extract for 27,47,165,47
+
+Unable to extract for 4,464/4,D47,464/4
+
+Unable to extract for 6,642,2,D3
+
+Unable to extract for 66,1,b66,Y27
+
+Unable to extract for 6,66,b4,2
+
+Unable to extract for 5/5,57,1,4
+
+Unable to extract for 37,5/2,564/2,27
+
+Unable to extract for 47,6,56,1
+
+Unable to extract for b6,b7,4,D4
+
+Unable to extract for 2,5,4,1
+
+Unable to extract for 3,6,56/5,5
+
+Unable to extract for 6,66,L4,4
+
+Unable to extract for 3,67,2,27
+
+Unable to extract for b7,b17,67,b47
+
+Unable to extract for 17,4,5/6,6
+
+Unable to extract for 4,464,b4,b464
+
+Unable to extract for 57,4,57,37
+
+Unable to extract for 17,L27,27,57
+
+Unable to extract for 36,4,57,1
+
+Unable to extract for 57/4,4,37,27
+
+Unable to extract for 6,47,5,67
+
+Unable to extract for b3,Y6,5,4
+
+Unable to extract for 5,47,6,3
+
+Unable to extract for 4,16,5/5,1
+
+Unable to extract for 16,4,M17,1
+
+Unable to extract for 3,47,3,47
+
+Unable to extract for 27,66,6,5
+
+Unable to extract for 1,57/6,6,4
+
+Unable to extract for 542,37,57/2,27
+
+Unable to extract for 6,47,442,27
+
+Unable to extract for 6,164,6,164
+
+Unable to extract for 17,67,27,5
+
+Unable to extract for 1,464,4,6
+
+Unable to extract for 17,564,67,b543
+
+Unable to extract for 6,5,26,5
+
+Unable to extract for 47,47/4,46,56
+
+Unable to extract for 564,1,4,1
+
+Unable to extract for 2,56/6,164,27
+
+Unable to extract for 5/5,47,5,47
+
+Unable to extract for 4,7/5,5,6
+
+Unable to extract for 1,2,6,47
+
+Unable to extract for 4,1,27,67
+
+Unable to extract for 3,6,2,6
+
+Unable to extract for 6,3,4,57
+
+Unable to extract for 2,1,L77,57/2
+
+Unable to extract for 1,4,5/6,57
+
+Unable to extract for 6,4,b7,6
+
+Unable to extract for 57/6,4,b2,6
+
+Unable to extract for 4,6,5,b5
+
+Unable to extract for 6,264,56/6,4
+
+Unable to extract for 5,1,5/6,5/2
+
+Unable to extract for 17,5/6,56/6,6
+
+Unable to extract for 6,5,37,1
+
+Unable to extract for 464,1,4,1
+
+Unable to extract for 17,57/4,4,5/6
+
+Unable to extract for 46,4,464,1
+
+Unable to extract for 6,543/6,5/2,2
+
+Unable to extract for 1,b7,6,1
+
+Unable to extract for 16,3,37,6
+
+Unable to extract for 164,66,47,164
+
+Unable to extract for 4,47,5,6
+
+Unable to extract for 265,27,47,67
+
+Unable to extract for 1,164,67,142
+
+Unable to extract for 27,67,365,6
+
+Unable to extract for 47,b4,1,464
+
+Unable to extract for 47,57,5,6
+
+Unable to extract for 242,6,642,56/5
+
+Unable to extract for 464,77,643,67
+
+Unable to extract for 1,b7,5,5/5
+
+Unable to extract for 6,4,26,2
+
+Unable to extract for 26,2,164,5
+
+Unable to extract for 16,4,5,57
+
+Unable to extract for 6,26,1,5
+
+Unable to extract for 4,6,47,L265
+
+Unable to extract for 5/6,564/6,6,66
+
+Unable to extract for 664,564,464,4
+
+Unable to extract for 2,6,5,37
+
+Unable to extract for 6,5/5,2,6
+
+Unable to extract for 5,5/6,6,4
+
+Unable to extract for 46,6,57/6,6
+
+Unable to extract for 665,67,365,27
+
+Unable to extract for 67,1,4,164
+
+Unable to extract for 1,56,2,5
+
+Unable to extract for b7,M1,4,5
+
+Unable to extract for 57,6,57/4,464
+
+Unable to extract for 542,5/6,542/6,66
+
+Unable to extract for 7,4,b3,M3
+
+Unable to extract for 3,165,3,4
+
+Unable to extract for 1,542,16,4
+
+Unable to extract for 27,67,b67,b36
+
+Unable to extract for 1,2,4,3
+
+Unable to extract for 5,b3,b7,4
+
+Unable to extract for 16,27,464,L564
+
+Unable to extract for 1,5/3,1,5/3
+
+Unable to extract for 67,17,67,27
+
+Unable to extract for 365,565/6,6,56/6
+
+Unable to extract for 6,3,4,16
+
+Unable to extract for 3,b7,1,2
+
+Unable to extract for 4,56/5,5,3
+
+Unable to extract for 57/2,5/5,b77,L27
+
+Unable to extract for 1,6,5,27
+
+Unable to extract for 564,56,M5,56/6
+
+Unable to extract for 5/5,4,5,56/6
+
+Unable to extract for 3,67,542,1
+
+Unable to extract for 46,56,26,57/6
+
+Unable to extract for 26,5,6,26
+
+Unable to extract for 5,1,36,6
+
+Unable to extract for 27,242,77,5
+
+Unable to extract for 4,1,2,b4
+
+Unable to extract for 57/4,4,5,4
+
+Unable to extract for 2,6,5/5,2
+
+Unable to extract for 6,37,2,5/6
+
+Unable to extract for 37,b37,27,57
+
+Unable to extract for 7,1,543,7
+
+Unable to extract for 3,564,1,5/3
+
+Unable to extract for 2,6,2,C2
+
+Unable to extract for 7,665,565/2,2
+
+Unable to extract for 6,27,2,16
+
+Unable to extract for 2,b7,56,b7
+
+Unable to extract for 3,2,4,5
+
+Unable to extract for b7,264,5,27
+
+Unable to extract for 4,67,5,4
+
+Unable to extract for 57/2,27,37,57/2
+
+Unable to extract for 6,1,26,6
+
+Unable to extract for 3,16,664,564
+
+Unable to extract for 16,4,5,2
+
+Unable to extract for 67,6,464,4
+
+Unable to extract for 5,7/6,6,5
+
+Unable to extract for b6,Y7,5/3,1
+
+Unable to extract for 3,Y3,2,5
+
+Unable to extract for 67,2,165,b7
+
+Unable to extract for 27,37,4,3
+
+Unable to extract for 6,4,2,664
+
+Unable to extract for 3,36,6,56/6
+
+Unable to extract for 1,57/4,46,543
+
+Unable to extract for 564,5,1,564
+
+Unable to extract for 2,5/6,57/2,5/5
+
+Unable to extract for b3,4,5,1
+
+Unable to extract for 7/6,6,b1,L7
+
+Unable to extract for 6,16,5,2
+
+Unable to extract for b7,4,2,1
+
+Unable to extract for 1,57/4,4,1
+
+Unable to extract for 27,1,4,6
+
+Unable to extract for 56,2,1,56
+
+Unable to extract for 6,365,4,5
+
+Unable to extract for 164,57,1,57
+
+Unable to extract for 26,36,26,36
+
+Unable to extract for b6,164,56,b6
+
+Unable to extract for 5,27,37,6
+
+Unable to extract for 7,37,M37,57/2
+
+Unable to extract for 57/6,6,2,664
+
+Unable to extract for 4,2,4,3
+
+Unable to extract for 6,66,3,4
+
+Unable to extract for 5/5,6,4,5
+
+Unable to extract for 1,6,2,57/3
+
+Unable to extract for 5,5/6,4,1
+
+Unable to extract for 5,2,4,6
+
+Unable to extract for 5,2,4,6
+
+Unable to extract for 1,3,b3,1
+
+Unable to extract for 57,17,27,37
+
+Unable to extract for 664,4,L764,5
+
+Unable to extract for 37,27,4,5
+
+Unable to extract for 4,164,6,b7
+
+Unable to extract for 164,3,6,1
+
+Unable to extract for 1,542,37,57/2
+
+Unable to extract for 6,66,4,66
+
+Unable to extract for 6,56,4,5
+
+Unable to extract for 164,56/5,4,6
+
+Unable to extract for b3,b6,1,b57
+
+Unable to extract for 1,5,6,1
+
+Unable to extract for 1,5,6,1
+
+Unable to extract for 1,5,6,1
+
+Unable to extract for 1,5,6,1
+
+Unable to extract for 5/6,4,27,16
+
+Unable to extract for 27,164,5,565
+
+Unable to extract for 1,47,37,67
+
+Unable to extract for 664,4,6,56
+
+Unable to extract for 57,6,164,36
+
+Unable to extract for 17,2,67,2
+
+Unable to extract for 67,47,b77,57
+
+Unable to extract for 5,5/5,542/5,5/5
+
+Unable to extract for 5,6,5,M5
+
+Unable to extract for 2,4,37,5
+
+Unable to extract for 56,1,164,1
+
+Unable to extract for 6,26,1,6
+
+Unable to extract for 56,5,1,27
+
+Unable to extract for 2,3,67,5
+
+Unable to extract for 2,77,66,6
+
+Unable to extract for 4,6,242,1
+
+Unable to extract for 16,4,1,564
+
+Unable to extract for 564,16,46,164
+
+Unable to extract for 4,6,2,6
+
+Unable to extract for 6,7,1,2
+
+Unable to extract for 5,3,5,M2
+
+Unable to extract for b7,4,1,4
+
+Unable to extract for 1,5,16,46
+
+Unable to extract for 6,1,2,37
+
+Unable to extract for 164,57,1,47
+
+Unable to extract for 6,164,46,56
+
+Unable to extract for 4,2,D3,b7
+
+Unable to extract for 6,4,6,56
+
+Unable to extract for 5,6,3,47
+
+Unable to extract for 6,3,4,165
+
+Unable to extract for 67,4,5,1
+
+Unable to extract for 5,1,27,4
+
+Unable to extract for 37,47,5,67
+
+Unable to extract for 56,36,16,4
+
+Unable to extract for 57/5,5,1,56
+
+Unable to extract for 5/5,1,56,564/5
+
+Unable to extract for 26,6,664,464
+
+Unable to extract for b4,6,5/6,6
+
+Unable to extract for 6,47,1,2
+
+Unable to extract for 664,66,664,26
+
+Unable to extract for 564,164,1,4
+
+Unable to extract for 4,1,2,1
+
+Unable to extract for 664,27,342,6
+
+Unable to extract for 27,76,2,4
+
+Unable to extract for 6,365,27,47
+
+Unable to extract for 1,57/4,47,b3
+
+Unable to extract for 564,1,4,564
+
+Unable to extract for 164,L4,2,57/6
+
+Unable to extract for 6,664,37,5
+
+Unable to extract for 1,M17,4,2
+
+Unable to extract for 37,17,57/6,6
+
+Unable to extract for 56,3,4,27
+
+Unable to extract for 27,57,17,27
+
+Unable to extract for 4,6,1,5/5
+
+Unable to extract for 1,164,1,364
+
+Unable to extract for 1,3,b5,4
+
+Unable to extract for 47,542,47,5
+
+Unable to extract for 47,1,27,L742
+
+Unable to extract for 1,56,1,56
+
+Unable to extract for 5,1,57/2,2
+
+Unable to extract for 27,37,17,57/6
+
+Unable to extract for 5/6,6,37,2
+
+Unable to extract for 5/5,b4,1,5/5
+
+Unable to extract for 6,66,2,47
+
+Unable to extract for b7,6,4,1
+
+Unable to extract for 5,1,5,7/6
+
+Unable to extract for 47,37,6,4
+
+Unable to extract for 2,6,2,4
+
+Unable to extract for 2,264,b47,b464
+
+Unable to extract for 164,5,1,3
+
+Unable to extract for 4,47,6,1
+
+Unable to extract for 46,542/3,56/6,164
+
+Unable to extract for 464,5,1,4
+
+Unable to extract for 57,6,Y4,1
+
+Unable to extract for 17,4,1,6
+
+Unable to extract for 164,26,2,26
+
+Unable to extract for 5,b7,5,4
+
+Unable to extract for 4,164,b6,5
+
+Unable to extract for 3,4,57,1
+
+Unable to extract for 47,1,2,6
+
+Unable to extract for b6,b7,7,b1
+
+Unable to extract for 47,464,4,165
+
+Unable to extract for 36,4,56/2,2
+
+Unable to extract for 1,4,5,6
+
+Unable to extract for 1,4,5,6
+
+Unable to extract for 1,4,5,6
+
+Unable to extract for 1,4,5,6
+
+Unable to extract for 1,4,5,6
+
+Unable to extract for 1,4,5,6
+
+Unable to extract for 1,4,5,6
+
+Unable to extract for 1,4,5,6
+
+Unable to extract for 1,4,5,6
+
+Unable to extract for 1,5/6,6,b5
+
+Unable to extract for 2,6,77/6,57/6
+
+Unable to extract for 67,27,7/3,57/6
+
+Unable to extract for 5,56/6,6,542/4
+
+Unable to extract for 4,1,4,5
+
+Unable to extract for 4,1,4,5
+
+Unable to extract for 4,1,4,5
+
+Unable to extract for 4,1,4,5
+
+Unable to extract for 4,1,4,5
+
+Unable to extract for 4,1,4,5
+
+Unable to extract for 6,4,1,6
+
+Unable to extract for 6,4,1,6
+
+Unable to extract for 6,4,1,6
+
+Unable to extract for 6,4,1,6
+
+Unable to extract for 57/4,47,b3,1
+
+Unable to extract for 242,17,1,543/6
+
+Unable to extract for 1,2,56/6,4
+
+Unable to extract for 5,6,L7,4
+
+Unable to extract for 47,2,b6,b7
+
+Unable to extract for 4,1,364,3
+
+Unable to extract for 2,17,1,57/3
+
+Unable to extract for 164,1,4,5
+
+Unable to extract for 57/4,4,5/6,6
+
+Unable to extract for 1,364,b7,4
+
+Unable to extract for 17,57/2,b7,1
+
+Unable to extract for 6,164,4,643
+
+Unable to extract for 67,143,47,67
+
+Unable to extract for 5,4,1,564
+
+Unable to extract for 5,265,2,1
+
+Unable to extract for 4,67,16,L265
+
+Unable to extract for 67,27,57,67
+
+Unable to extract for 5,4,b3,b7
+
+Unable to extract for 66,5,464,1
+
+Unable to extract for 1,364,3,4
+
+Unable to extract for 4,3,4,16
+
+Unable to extract for 5/5,4,5,57
+
+Unable to extract for 3,1,5,3
+
+Unable to extract for 6,46,6,67
+
+Unable to extract for 6,2,b4,1
+
+Unable to extract for 6,5,46,36
+
+Unable to extract for b3,C5,C2,1
+
+Unable to extract for 642,27,242,77
+
+Unable to extract for 2,57,1,542/4
+
+Unable to extract for 57,6,4,5
+
+Unable to extract for 56,6,164,5
+
+Unable to extract for 1,6,164,77/5
+
+Unable to extract for 57/6,67,5,47
+
+Unable to extract for 4,5,2,6
+
+Unable to extract for 4,5,2,6
+
+Unable to extract for 1,36,4,36
+
+Unable to extract for 6,27,37,b47
+
+Unable to extract for 67,265,47,365
+
+Unable to extract for 1,16,4,265
+
+Unable to extract for 5/5,1,5,5/5
+
+Unable to extract for 16,27,5,57
+
+Unable to extract for 6,5,37,47
+
+Unable to extract for 56,46,66,1
+
+Unable to extract for 6,67,6,5
+
+Unable to extract for 1,5,2,16
+
+Unable to extract for 67,4,57/6,67
+
+Unable to extract for 1,17,b37,2
+
+Unable to extract for 242,1,16,26
+
+Unable to extract for 46,1,4,5
+
+Unable to extract for 3,5,6,5
+
+Unable to extract for 37,2,6,27
+
+Unable to extract for 26,16,1,564
+
+Unable to extract for 6,56/6,6,464
+
+Unable to extract for 664,4,16,1
+
+Unable to extract for 47,4,6,664
+
+Unable to extract for 164,5,57,164
+
+Unable to extract for 4,1,6,5/5
+
+Unable to extract for 5,1,26,L564
+
+Unable to extract for 5,265,b4,16
+
+Unable to extract for 4,6,5/6,6
+
+Unable to extract for 56/6,6,47,442
+
+Unable to extract for 6,642,664,642
+
+Unable to extract for 5,1,5,3
+
+Unable to extract for 6,56/6,6,47
+
+Unable to extract for 164,b57,265,b3
+
+Unable to extract for 46,5,4,1
+
+Unable to extract for 57/5,47,57,47
+
+Unable to extract for 5,37,4,47
+
+Unable to extract for 47,442,27,37
+
+Unable to extract for 6,b6,4,57/6
+
+Unable to extract for 26,36,M57,57/4
+
+Unable to extract for 4,5,6,565
+
+Unable to extract for 6,1,4,5/5
+
+Unable to extract for 1,5/6,1,5/6
+
+Unable to extract for b4,165,67,D67
+
+Unable to extract for 27,5/6,4,47
+
+Unable to extract for 37,664,4,564
+
+Unable to extract for 1,5/2,4,b46
+
+Unable to extract for 4,2,5,1
+
+Unable to extract for 4,2,5,1
+
+Unable to extract for 27,2,1,7
+
+Unable to extract for 4,1,b7,5
+
+Unable to extract for b6,5,b5,4
+
+Unable to extract for 564,77,443,5/2
+
+Unable to extract for 36,26,36,26
+
+Unable to extract for 47,2,6,1
+
+Unable to extract for 46,3,5/5,46
+
+Unable to extract for 67,17,143,27
+
+Unable to extract for 5/6,2,66,564/6
+
+Unable to extract for 2,3,4,2
+
+Unable to extract for 1,4,5,M4
+
+Unable to extract for 57/2,4,7,3
+
+Unable to extract for 1,6,26,5
+
+Unable to extract for 5/6,4,1,6
+
+Unable to extract for 6,56/6,6,76/6
+
+Unable to extract for 564,664,4,5
+
+Unable to extract for 4,1,4,b6
+
+Unable to extract for 5/5,664,7/3,57/3
+
+Unable to extract for 57/6,56/6,5/6,56/6
+
+Unable to extract for 1,2,464,5
+
+Unable to extract for 4,164,564,5/6
+
+Unable to extract for 1,b3,b6,4
+
+Unable to extract for 1,564,4,6
+
+Unable to extract for 37,2,47,5
+
+Unable to extract for 4,5,4,2
+
+Unable to extract for 5/6,27,5,1
+
+Unable to extract for 265,37,165,27
+
+Unable to extract for 664,2,26,47/4
+
+Unable to extract for 2,665,56,2
+
+Unable to extract for b4,1,542/5,57
+
+Unable to extract for 364,M142,67,5/5
+
+Unable to extract for 4,1,46,4
+
+Unable to extract for 1,2,3,b7
+
+Unable to extract for 664,2,664,6
+
+Unable to extract for 2,3,1,b5
+
+Unable to extract for 16,47,16,2
+
+Unable to extract for 4,1,57/6,6
+
+Unable to extract for 47,57/6,67,57/5
+
+Unable to extract for 67,5,4,37
+
+Unable to extract for 1,4,b3,1
+
+Unable to extract for 4,5,1,56
+
+Unable to extract for 4,5,1,56
+
+Unable to extract for 4,5,1,56
+
+Unable to extract for 37,5,27,67
+
+Unable to extract for 2,6,5,5/5
+
+Unable to extract for b3,Y76,5,4
+
+Unable to extract for 2,57,1,7/2
+
+Unable to extract for 164,b46,67,b46
+
+Unable to extract for 164,4,2,5
+
+Unable to extract for 4,1,564,543
+
+Unable to extract for 164,7/5,5,b6
+
+Unable to extract for 4,442,D442,7/3
+
+Unable to extract for 5/5,4,1,4
+
+Unable to extract for 27,3,4,6
+
+Unable to extract for 2,6,5,27
+
+Unable to extract for 2,56,b7,2
+
+Unable to extract for 3,b7,6,1
+
+Unable to extract for 57,17,47,57/3
+
+Unable to extract for 3,27,1,27
+
+Unable to extract for 4,56/6,6,4
+
+Unable to extract for 542,57/6,6,4
+
+Unable to extract for 5/5,6,4,5/6
+
+Unable to extract for 6,1,56,2
+
+Unable to extract for 56,5,1,56
+
+Unable to extract for 4,b3,b76,4
+
+Unable to extract for 164,265,5/6,57/6
+
+Unable to extract for 5,b6,5,4
+
+Unable to extract for 164,6,1,4
+
+Unable to extract for 5,564,1,264
+
+Unable to extract for 1,67,465,56
+
+Unable to extract for 4,1,46,5
+
+Unable to extract for 1,26,464,6
+
+Unable to extract for 664,57/6,6,56/6
+
+Unable to extract for 5,1,L242,242
+
+Unable to extract for 57/6,7,6,7/6
+
+Unable to extract for 67,M17,27,47
+
+Unable to extract for 5,57,5,2
+
+Unable to extract for 5,2,5,6
+
+Unable to extract for 27,665,37,27
+
+Unable to extract for 57,542,16,4
+
+Unable to extract for 26,5,26,5
+
+Unable to extract for 4,464,4,5
+
+Unable to extract for 242,7,6,5/6
+
+Unable to extract for 36,6,4,5
+
+Unable to extract for 5/5,57/5,564,5/5
+
+Unable to extract for 3,6,4,6
+
+Unable to extract for b7,4,1,Y2
+
+Unable to extract for b3,b7,4,3
+
+Unable to extract for 4,564,2,37
+
+Unable to extract for 27,17,27,47
+
+Unable to extract for 17,b4,6,M17
+
+Unable to extract for 57,1,66,1
+
+Unable to extract for 5,67,1,5
+
+Unable to extract for 2,6,664,26
+
+Unable to extract for 2,1,6,2
+
+Unable to extract for 4,7/5,164,5
+
+Unable to extract for 4,1,3,4
+
+Unable to extract for 4,1,3,4
+
+Unable to extract for 1,67,47,1
+
+Unable to extract for 27,564,2,47
+
+Unable to extract for 27,243,37,343
+
+Unable to extract for 5,57,47,56/2
+
+Unable to extract for 5,27,5,1
+
+Unable to extract for 6,5,3,265
+
+Unable to extract for 67,5/5,57/4,1
+
+Unable to extract for 1,564,37,464
+
+Unable to extract for 1,164,17,164
+
+Unable to extract for 6,b7,57/6,2
+
+Unable to extract for 5/5,2,6,5/5
+
+Unable to extract for 46,164,4,77
+
+Unable to extract for 6,1,2,3
+
+Unable to extract for 6,4,664,26
+
+Unable to extract for 46,66,4,564
+
+Unable to extract for 6,4,5/5,6
+
+Unable to extract for 57/4,27,16,47
+
+Unable to extract for 6,2,5/6,67
+
+Unable to extract for 27,4,642,665
+
+Unable to extract for 6,1,4,27
+
+Unable to extract for 77,365,543/2,26
+
+Unable to extract for 17,b4,17,b4
+
+Unable to extract for 4,5,1,5/5
+
+Unable to extract for 3,6,4,2
+
+Unable to extract for 67,27,565/6,57/6
+
+Unable to extract for 4,37,542,4
+
+Unable to extract for 47,67,5,4
+
+Unable to extract for 3,5,47,1
+
+Unable to extract for 27,2,5,6
+
+Unable to extract for 27,6,2,27
+
+Unable to extract for 642,4,b6,1
+
+Unable to extract for 6,36,4,16
+
+Unable to extract for 5/5,1,56,5/5
+
+Unable to extract for 642,4,M76,57/6
+
+Unable to extract for 66,542/5,56,142
+
+Unable to extract for 665,67,164,665
+
+Unable to extract for 3,17,57/3,3
+
+Unable to extract for 4,b4,4,b4
+
+Unable to extract for 6,4,442,1
+
+Unable to extract for 6,4,Y2,Y37
+
+Unable to extract for b7,5,4,3
+
+Unable to extract for 6,4,1,L56
+
+Unable to extract for 164,6,1,16
+
+Unable to extract for 66,5/6,57/6,4
+
+Unable to extract for 1,5,6,56
+
+Unable to extract for 5,b6,5/3,b7
+
+Unable to extract for 5,4,6,7
+
+Unable to extract for 36,2,66,142
+
+Unable to extract for 5,67,5,16
+
+Unable to extract for b7,1,b3,b7
+
+Unable to extract for 27,5,565/6,6
+
+Unable to extract for 464,564,4,5
+
+Unable to extract for 26,5,4,16
+
+Unable to extract for 2,47,M77,5
+
+Unable to extract for 4,3,6,2
+
+Unable to extract for 6,L7,1,3
+
+Unable to extract for 1,5,6,57/4
+
+Unable to extract for 5/6,4,C3,5/6
+
+Unable to extract for 36,b5,D164,b4
+
+Unable to extract for 57,4,5,1
+
+Unable to extract for b7,1,5,b7
+
+Unable to extract for 6,664,2,3
+
+Unable to extract for 164,5,6,27
+
+Unable to extract for 5,6,1,5/5
+
+Unable to extract for 664,6,164,16
+
+Unable to extract for 464,27,564,464
+
+Unable to extract for 4,16,1,5
+
+Unable to extract for 464,564,1,464
+
+Unable to extract for 6,27,5,6
+
+Unable to extract for 47,265,1,5/6
+
+Unable to extract for 1,2,6,56
+
+Unable to extract for b3,1,6,4
+
+Unable to extract for b7,1,5/2,2
+
+Unable to extract for 16,2,56/2,464
+
+Unable to extract for 7/6,5,4,5/6
+
+Unable to extract for 16,2,464,4
+
+Unable to extract for 67,1,4,1
+
+Unable to extract for 564,664,6,5/6
+
+Unable to extract for 4,3,1,5
+
+Unable to extract for 1,665,6,67
+
+Unable to extract for 57/6,6,264,7
+
+Unable to extract for 5/6,6,1,5/6
+
+Unable to extract for 27,57,1,27
+
+Unable to extract for 4,3,67,2
+
+Unable to extract for 6,5/5,56,1
+
+Unable to extract for 36,6,5,465
+
+Unable to extract for 66,b7,56,2
+
+Unable to extract for 365,47,365,6
+
+Unable to extract for 1,242,76/6,6
+
+Unable to extract for 46,6,46,L46
+
+Unable to extract for 56/6,6,4,1
+
+Unable to extract for 3,5,6,3
+
+Unable to extract for 16,5/6,664,3
+
+Unable to extract for 1,3,26,1
+
+Unable to extract for 6,36,5,27
+
+Unable to extract for 6,4,664,2
+
+Unable to extract for 4,2,4,565/5
+
+Unable to extract for 265,365,57,1
+
+Unable to extract for 2,6,b7,6
+
+Unable to extract for 1,5,164,1
+
+Unable to extract for 5,164,27,67
+
+Unable to extract for 37,6,265,16
+
+Unable to extract for 6,37,6,37
+
+Unable to extract for 1,242,1,4
+
+Unable to extract for 47,17,67,5
+
+Unable to extract for 1,6,2,27
+
+Unable to extract for 164,46,565,1
+
+Unable to extract for 17,3,L7,17
+
+Unable to extract for 1,17,464,66
+
+Unable to extract for 164,4,1,6
+
+Unable to extract for 47,27,16,1
+
+Unable to extract for 665,b37,665,4
+
+Unable to extract for 56,46,16,1
+
+Unable to extract for 1,57,1,56
+
+Unable to extract for 164,5,67,164
+
+Unable to extract for 4,5/6,2,66
+
+Unable to extract for 5,1,67,27
+
+Unable to extract for 5/6,6,4,L7
+
+Unable to extract for 6,3,1,6
+
+Unable to extract for 664,6,5,57/4
+
+Unable to extract for 46,6,46,36
+
+Unable to extract for 66,2,b7,5
+
+Unable to extract for 57,17,27,57
+
+Unable to extract for 364,664,564,D464
+
+Unable to extract for 57/4,4,57,1
+
+Unable to extract for 564,3,16,664
+
+Unable to extract for 6,1,16,L265
+
+Unable to extract for 2,3,165,4
+
+Unable to extract for 4,3,6,57/5
+
+Unable to extract for 67,4,664,5/6
+
+Unable to extract for 642,4,b77,1
+
+Unable to extract for 164,16,2,76
+
+Unable to extract for 16,2,1,57
+
+Unable to extract for 1,4,164,6
+
+Unable to extract for 464,77,76/6,6
+
+Unable to extract for 3,47,5/6,7/3
+
+Unable to extract for 6,2,4,2
+
+Unable to extract for 27,57,6,542
+
+Unable to extract for 1,56,46,164
+
+Unable to extract for 364,b4,17,5/2
+
+Unable to extract for 47,16,4,6
+
+Unable to extract for 57/2,27,5,57
+
+Unable to extract for 665,b464,665,Y27
+
+Unable to extract for 4,1,57/5,4
+
+Unable to extract for 67,6,46,6
+
+Unable to extract for 6,47,27,5/6
+
+Unable to extract for 56,1,47,67
+
+Unable to extract for 67,27,7/3,3
+
+Unable to extract for 5/6,6,66,D47
+
+Unable to extract for 1,M17,242,1
+
+Unable to extract for 1,5,6,542/4
+
+Unable to extract for 57,1,464,57
+
+Unable to extract for 1,564,2,1
+
+Unable to extract for 5/6,56/6,5/6,2
+
+Unable to extract for 5,564,5,564
+
+Unable to extract for 6,7/6,6,7
+
+Unable to extract for 1,16,5,1
+
+Unable to extract for 6,642,47,4
+
+Unable to extract for 3,342,6,564/6
+
+Unable to extract for 56,6,3,4
+
+Unable to extract for 4,b4,b7,5/2
+
+Unable to extract for 37,6,56/5,47
+
+Unable to extract for 1,56,6,56/5
+
+Unable to extract for 56,1,2,5/6
+
+Unable to extract for 47,6,17,47
+
+Unable to extract for 1,3,4,b4
+
+Unable to extract for b7,1,17,47/4
+
+Unable to extract for 1,5,1,5/6
+
+Unable to extract for 265,164,5,6
+
+Unable to extract for 5,1,56,27
+
+Unable to extract for 4,2,5,D3
+
+Unable to extract for 6,5/6,27,16
+
+Unable to extract for b7,4,b4,1
+
+Unable to extract for 6,365,47,L764
+
+Unable to extract for 4,2,M77,6
+
+Unable to extract for 4,664,5,b6
+
+Unable to extract for 2,1,542,67
+
+Unable to extract for 6,3,2,5
+
+Unable to extract for 164,4,16,27
+
+Unable to extract for 542,1,565,4
+
+Unable to extract for 47,6,365,47
+
+Unable to extract for 5,2,1,4
+
+Unable to extract for 365,6,364,1
+
+Unable to extract for 1,4,164,4
+
+Unable to extract for 6,26,4,542
+
+Unable to extract for 57/2,2,464/4,5
+
+Unable to extract for 5,3,4,1
+
+Unable to extract for b3,56/3,Y2,C5
+
+Unable to extract for 2,564,27,564
+
+Unable to extract for 5,17,4,5/6
+
+Unable to extract for 67,6,665,2
+
+Unable to extract for 2,57/6,565/6,543/6
+
+Unable to extract for 164,1,37,343
+
+Unable to extract for 56,6,4,56
+
+Unable to extract for 2,1,5,16
+
+Unable to extract for 1,L242,242,17
+
+Unable to extract for 57,17,47,77
+
+Unable to extract for 564,16,b16,564
+
+Unable to extract for 5/5,4,Y6,3
+
+Unable to extract for 27,57,37,67
+
+Unable to extract for 4,442,2,5/6
+
+Unable to extract for 2,3,2,4
+
+Unable to extract for 364,56,6,1
+
+Unable to extract for 5,1,364,5
+
+Unable to extract for 2,16,4,6
+
+Unable to extract for 4,5,2,4
+
+Unable to extract for 4,5,2,4
+
+Unable to extract for 4,5,2,4
+
+Unable to extract for 67,47,27,165
+
+Unable to extract for 664,7/6,6,564/4
+
+Unable to extract for 5/6,47,6,47
+
+Unable to extract for 56,364,56,6
+
+Unable to extract for 5,67,1,67
+
+Unable to extract for 5,47,1,37
+
+Unable to extract for 26,564/2,2,66
+
+Unable to extract for 1,4,37,6
+
+Unable to extract for 2,6,67,27
+
+Unable to extract for 1,5,1,47
+
+Unable to extract for 4,5,565/6,6
+
+Unable to extract for 2,264,2,264
+
+Unable to extract for b4,1,5/5,b4
+
+Unable to extract for 5,1,57,47
+
+Unable to extract for 2,5,b7,1
+
+Unable to extract for b7,56/6,264,5/2
+
+Unable to extract for 5,6,2,6
+
+Unable to extract for 7,1,5,6
+
+Unable to extract for 66,642,26,4
+
+Unable to extract for 5,56,564,542
+
+Unable to extract for 3,2,3,b6
+
+Unable to extract for 164,6,164,1
+
+Unable to extract for 1,b5,b37,4
+
+Unable to extract for 26,2,564/6,66
+
+Unable to extract for 3,6,5,343
+
+Unable to extract for 2,57,1,5
+
+Unable to extract for b3,1,6,3
+
+Unable to extract for 564,67,4,5
+
+Unable to extract for 1,b7,2,b5
+
+Unable to extract for 265,4,5,6
+
+Unable to extract for 7,36,1,4
+
+Unable to extract for 265,164,57,164
+
+Unable to extract for 2,5,565/6,6
+
+Unable to extract for 67,6,67,5
+
+Unable to extract for 46,2,1,4
+
+Unable to extract for 56/6,164,5/5,4
+
+Unable to extract for 6,5,47,L77
+
+Unable to extract for 47,6,1,365
+
+Unable to extract for 5/6,56/6,6,56/6
+
+Unable to extract for 57,17,D47,57/6
+
+Unable to extract for 16,6,4,5
+
+Unable to extract for 5,47,b1,b76
+
+Unable to extract for 17,27,5,17
+
+Unable to extract for 5/6,6,564/6,66
+
+Unable to extract for 464,b464,b6,1
+
+Unable to extract for 164,165,16,564
+
+Unable to extract for 265,1,5,265
+
+Unable to extract for 47,265,4,1
+
+Unable to extract for 2,5,5/6,57/6
+
+Unable to extract for 1,4,6,464
+
+Unable to extract for 57/5,5,1,464
+
+Unable to extract for 37,565/6,67,47
+
+Unable to extract for 1,6,1,5/5
+
+Unable to extract for 5,5/6,57/6,4
+
+Unable to extract for 364,3,L3,4
+
+Unable to extract for 27,57,27,16
+
+Unable to extract for b4,3,7/3,27
+
+Unable to extract for 66,57/4,4,16
+
+Unable to extract for 27,b7,1,56
+
+Unable to extract for 46,56,564,4
+
+Unable to extract for 5,365,57,365
+
+Unable to extract for 2,5,6,5/6
+
+Unable to extract for 66,56,56/2,57/2
+
+Unable to extract for 5,6,56,5
+
+Unable to extract for 16,56,b443,L46
+
+Unable to extract for 6,3,4,76
+
+Unable to extract for b4,b1,b5,b1
+
+Unable to extract for 47,16,6,36
+
+Unable to extract for 47,27,L77,b77
+
+Unable to extract for 5,57,2,5
+
+Unable to extract for 66,M76,M17,M165
+
+Unable to extract for 36,L26,26,4
+
+Unable to extract for 4,7/6,6,2
+
+Unable to extract for 3,5/2,4,5
+
+Unable to extract for 264,56,5,57
+
+Unable to extract for 27,4,5,4
+
+Unable to extract for 46,464,5,564
+
+Unable to extract for 57/2,27,57,6
+
+Unable to extract for 6,7,b1,7
+
+Unable to extract for 1,5,4,164
+
+Unable to extract for 5,b7,4,5/6
+
+Unable to extract for 57,1,66,3
+
+Unable to extract for 47,5,642,37
+
+Unable to extract for 4,1,b4,b5
+
+Unable to extract for 464,C464,1,C1
+
+Unable to extract for 4,1,5/6,542/6
+
+Unable to extract for 542,27,b7,Y564
+
+Unable to extract for 6,7,6,3
+
+Unable to extract for 4,16,1,564
+
+Unable to extract for 16,4,5,16
+
+Unable to extract for 26,6,4,5
+
+Unable to extract for 6,164,47,4
+
+Unable to extract for 664,6,4,16
+
+Unable to extract for 5,6,5,464
+
+Unable to extract for 6,564,56,664
+
+Unable to extract for 6,642,47,5/2
+
+Unable to extract for 1,b3,5/5,4
+
+Unable to extract for b7,6,5/5,6
+
+Unable to extract for 16,5,6,56
+
+Unable to extract for 36,4,2,36
+
+Unable to extract for 4,2,56/3,57/3
+
+Unable to extract for 5,16,6,4
+
+Unable to extract for 6,4,1,543/6
+
+Unable to extract for 5,6,26,164
+
+Unable to extract for b4,5,b7,1
+
+Unable to extract for 27,5,b6,b7
+
+Unable to extract for 5,2,5,57/5
+
+Unable to extract for 4,5,16,1
+
+Unable to extract for 5,1,6,164
+
+Unable to extract for 67,265,5,1
+
+Unable to extract for 5,1,16,57/4
+
+Unable to extract for 16,4,46,464
+
+Unable to extract for 464,164,5,464
+
+Unable to extract for 47,2,6,5
+
+Unable to extract for 5/5,L1,b7,6
+
+Unable to extract for 5,7/6,6,57/5
+
+Unable to extract for 5/6,67,1,2
+
+Unable to extract for 5,6,16,27
+
+Unable to extract for 37,6,2,442
+
+Unable to extract for 664,57/6,67,L27
+
+Unable to extract for 3,1,2,4
+
+Unable to extract for 47,16,164,365
+
+Unable to extract for 1,5,1,543
+
+Unable to extract for 5/6,6,2,543/2
+
+Unable to extract for 57/6,6,26,6
+
+Unable to extract for 4,442,2,3
+
+Unable to extract for 56/6,2,5/6,4
+
+Unable to extract for 6,564,6,47
+
+Unable to extract for b6,1,5/5,5
+
+Unable to extract for 664,2,1,b7
+
+Unable to extract for 27,4,5,564
+
+Unable to extract for 665,464,56,67
+
+Unable to extract for 664,5,6,17
+
+Unable to extract for 6,4,6,b5
+
+Unable to extract for b7,L7,76,4/7
+
+Unable to extract for 27,b7,57/6,b7
+
+Unable to extract for 7/6,37,343,6
+
+Unable to extract for 6,37,1,3
+
+Unable to extract for 164,564,5,1
+
+Unable to extract for 36,1,5,1
+
+Unable to extract for 164,364,1,4
+
+Unable to extract for 56,1,3,5
+
+Unable to extract for 464,6,4,6
+
+Unable to extract for 47,542,36,6
+
+Unable to extract for b7,b1,L7,6
+
+Unable to extract for 37,6,4,27
+
+Unable to extract for 464,1,16,47
+
+Unable to extract for 16,L265,565/6,46
+
+Unable to extract for 464,1,5,56/6
+
+Unable to extract for 1,564,664,4
+
+Unable to extract for 47,36,564,6
+
+Unable to extract for 1,6,66,2
+
+Unable to extract for 67,143,165,6
+
+Unable to extract for 4,57,542,1
+
+Unable to extract for 3,5,6,564
+
+Unable to extract for 164,264,164,564/6
+
+Unable to extract for 57/2,565/2,5/5,6
+
+Unable to extract for 3,6,164,7/5
+
+Unable to extract for 365,5,47,16
+
+Unable to extract for 5,57,37,67
+
+Unable to extract for 3,67,b6,1
+
+Unable to extract for 1,164,464/4,4
+
+Unable to extract for 665,2,67,4
+
+Unable to extract for 5,6,L7,47
+
+Unable to extract for b7,4,b7,46
+
+Unable to extract for 5/2,2,C2,464
+
+Unable to extract for 47,3,27,37
+
+Unable to extract for 6,37,27,37
+
+Unable to extract for 3,56/5,5,4
+
+Unable to extract for b7,6,3,6
+
+Unable to extract for 1,6,36,47
+
+Unable to extract for 5/6,6,67,57/4
+
+Unable to extract for 1,2,1,27
+
+Unable to extract for 6,5,67,5
+
+Unable to extract for 36,37,164,4
+
+Unable to extract for 37,47,67,665
+
+Unable to extract for 6,5/6,56/6,565/6
+
+Unable to extract for b3,1,b3,5/5
+
+Unable to extract for 6,4,164,565/6
+
+Unable to extract for 3,564,5,6
+
+Unable to extract for 57,1,16,164
+
+Unable to extract for 77,57/6,4,L4
+
+Unable to extract for 1,164,16,47/4
+
+Unable to extract for 17,1,142,6
+
+Unable to extract for 1,464,1,665
+
+Unable to extract for 564,46,56,564
+
+Unable to extract for 2,26,77,57/6
+
+Unable to extract for 3,564,1,5/5
+
+Unable to extract for 16,3,5,1
+
+Unable to extract for 3,D47,5,5/6
+
+Unable to extract for 4,16,2,57
+
+Unable to extract for 57,56/6,6,17
+
+Unable to extract for 4,664,565/3,57/6
+
+Unable to extract for 2,4,57,6
+
+Unable to extract for 5/2,57/5,57,1
+
+Unable to extract for 47,36,5/6,47
+
+Unable to extract for 4,47,57,5
+
+Unable to extract for 36,6,67,5
+
+Unable to extract for 5,67,37,1
+
+Unable to extract for 5,56,1,5/6
+
+Unable to extract for 164,4,1,b165
+
+Unable to extract for 1,5/5,5,542
+
+Unable to extract for 37,47,57,67
+
+Unable to extract for 4,46,5,1
+
+Unable to extract for 27,1,56,2
+
+Unable to extract for 57/6,664,37,664
+
+Unable to extract for 364,1,364,265
+
+Unable to extract for 6,5,4,56/5
+
+Unable to extract for 47,1,5,46
+
+Unable to extract for 3,564,5/2,2
+
+Unable to extract for 464,1,b464,1
+
+Unable to extract for 37,4,6,3
+
+Unable to extract for 16,164,6,642
+
+Unable to extract for 3,4,3,464
+
+Unable to extract for 26,6,5,1
+
+Unable to extract for 57/4,4,3,27
+
+Unable to extract for 5,6,343,4
+
+Unable to extract for b7,b3,b6,3
+
+Unable to extract for 6,2,5/3,5/6
+
+Unable to extract for 7/6,67,4,5
+
+Unable to extract for 4,6,36,L26
+
+Unable to extract for 6,5,67,265
+
+Unable to extract for 2,242,7,6
+
+Unable to extract for 6,37,47,6
+
+Unable to extract for 56,46,16,265
+
+Unable to extract for 642,4,D4,4
+
+Unable to extract for b3,5,4,3
+
+Unable to extract for 57/6,67,47,57/6
+
+Unable to extract for 365,1,5,243
+
+Unable to extract for 6,3,6,5/6
+
+Unable to extract for 67,2,D47,5/6
+
+Unable to extract for 66,6,36,17
+
+Unable to extract for 67,26,b46,1
+
+Unable to extract for 164,56/6,6,46
+
+Unable to extract for 464,1,b7,4
+
+Unable to extract for 4,57,1,b7
+
+Unable to extract for 5,46,4,1
+
+Unable to extract for 6,2,M76,76
+
+Unable to extract for 6,66,47,27
+
+Unable to extract for 6,5,265,5
+
+Unable to extract for b4,b5,b3,b6
+
+Unable to extract for 2,5,464,564
+
+Unable to extract for 364,3,6,664
+
+Unable to extract for 264,6,664,6
+
+Unable to extract for 1,564/6,66,6
+
+Unable to extract for 4,2,56,1
+
+Unable to extract for 26,66,7,6
+
+Unable to extract for 1,2,1,7
+
+Unable to extract for 57,1,77,3
+
+Unable to extract for 16,564,16,1
+
+Unable to extract for 6,5,4,57
+
+Unable to extract for 67,56,1,3
+
+Unable to extract for 5,47,5,37
+
+Unable to extract for 16,4,464,4
+
+Unable to extract for 6,664,16,4
+
+Unable to extract for 642,47,27,3
+
+Unable to extract for 57,542,37,57/2
+
+Unable to extract for 265,4,47,56/6
+
+Unable to extract for 57/6,D26,57/6,D26
+
+Unable to extract for 2,242,665,464
+
+Unable to extract for 47,5,6,D67
+
+Unable to extract for 1,17,542/4,4
+
+Unable to extract for 47,57/6,27,57/6
+
+Unable to extract for 56,66,564,5/6
+
+Unable to extract for 36,6,4,66
+
+Unable to extract for 164,46,464,6
+
+Unable to extract for 5,16,4,57
+
+Unable to extract for 47,365,27,664
+
+Unable to extract for 2,37,365,67
+
+Unable to extract for 1,564,6,56
+
+Unable to extract for 56,5,4,542
+
+Unable to extract for 4,26,2,56
+
+Unable to extract for 365,4,365,37
+
+Unable to extract for 5,67,5,46
+
+Unable to extract for 5,47,57/6,67
+
+Unable to extract for 1,57/6,565/6,6
+
+Unable to extract for 26,16,464,7/7
+
+Unable to extract for 5,164,5,5/5
+
+Unable to extract for 47,57/6,5,6
+
+Unable to extract for 26,7/5,5,1
+
+Unable to extract for 57/6,6,2,4
+
+Unable to extract for 36,47,16,6
+
+Unable to extract for 242,16,5,4
+
+Unable to extract for 5,3,27,464
+
+Unable to extract for 6,7,4,7
+
+Unable to extract for 47,3,6,2
+
+Unable to extract for 365,5,4,1
+
+Unable to extract for 57/4,4,664,5/6
+
+Unable to extract for 6,642,1,16
+
+Unable to extract for 57/5,67,57/5,47
+
+Unable to extract for b7,5,6,7
+
+Unable to extract for 6,57/4,4,b46
+
+Unable to extract for 37,5/5,47,57/6
+
+Unable to extract for 1,37,3,37
+
+Unable to extract for 37,27,b27,67
+
+Unable to extract for 6,164,1,342
+
+Unable to extract for 47,56,6,5
+
+Unable to extract for b7,1,5/5,564
+
+Unable to extract for 564,67,b5,1
+
+Unable to extract for 47,365,3,5/6
+
+Unable to extract for 6,464,1,564
+
+Unable to extract for 57,16,1,6
+
+Unable to extract for 1,b4,b3,b6
+
+Unable to extract for b7,6,57/6,6
+
+Unable to extract for 5/6,56/6,6,7/5
+
+Unable to extract for 6,1,D47,5
+
+Unable to extract for 4,57,5,3
+
+Unable to extract for 7,6,5/6,6
+
+Unable to extract for 4,16,5,67
+
+Unable to extract for 37,47,1,5
+
+Unable to extract for 5,5/6,2,5/6
+
+Unable to extract for b6,b7,1,b3
+
+Unable to extract for b7,b3,4,b7
+
+Unable to extract for 642,47,27,67
+
+Unable to extract for 5/5,4,664,7/3
+
+Unable to extract for 5/2,2,6,2
+
+Unable to extract for 1,37,36,6
+
+Unable to extract for 16,6,164,5
+
+Unable to extract for 265,27,565/5,543/5
+
+Unable to extract for 4,1,364,b7
+
+Unable to extract for 6,264,164,4
+
+Unable to extract for 57/2,543/2,27,265
+
+Unable to extract for 6,46,164,5
+
+Unable to extract for 16,27,1,56
+
+Unable to extract for 664,6,664,66
+
+Unable to extract for 6,5/6,6,b6
+
+Unable to extract for 664,2,464,5
+
+Unable to extract for 5/6,564/6,56/6,5/6
+
+Unable to extract for 1,57/6,6,3
+
+Unable to extract for 1,5/5,4,6
+
+Unable to extract for 56/6,6,4,26
+
+Unable to extract for 27,5,6,47
+
+Unable to extract for 564,564,66,564
+
+Unable to extract for 664,56/3,5/6,66
+
+Unable to extract for 1,7/2,2,4
+
+Unable to extract for 564,4,16,5
+
+Unable to extract for 56/6,5/6,6,37
+
+Unable to extract for 5,16,1,564
+
+Unable to extract for 66,6,4,1
+
+Unable to extract for 5/6,1,164,1
+
+Unable to extract for 5,2,56/4,4
+
+Unable to extract for 4,564,6,164
+
+Unable to extract for 5,7/6,6,56
+
+Unable to extract for 1,4,2,56
+
+Unable to extract for 6,2,6,664
+
+Unable to extract for 26,57,67,37
+
+Unable to extract for 5,46,56,66
+
+Unable to extract for 6,b6,2,4
+
+Unable to extract for b7,46,1,5/6
+
+Unable to extract for 6,56/6,642,56/5
+
+Unable to extract for 2,464,5,56
+
+Unable to extract for 67,56,46,4
+
+Unable to extract for b7,b5,2,4
+
+Unable to extract for 6,464,364,2
+
+Unable to extract for 2,5,1,47
+
+Unable to extract for 3,564,17,364
+
+Unable to extract for 2,1,6,5/6
+
+Unable to extract for 6,67,1,2
+
+Unable to extract for 4,6,b6,1
+
+Unable to extract for 5,565/6,4,1
+
+Unable to extract for 5,47,17,47
+
+Unable to extract for 66,56/6,6,76/6
+
+Unable to extract for 56/6,6,642,L265
+
+Unable to extract for 164,L26,4,56/6
+
+Unable to extract for 46,164,5/2,1
+
+Unable to extract for 67,37,1,5
+
+Unable to extract for 56/6,542/2,26,542
+
+Unable to extract for 5,1,47,265
+
+Unable to extract for 5/6,66,56/6,6
+
+Unable to extract for 2,6,M46,L46
+
+Unable to extract for 664,D47,Y7,5/5
+
+Unable to extract for 16,2,6,642
+
+Unable to extract for 1,364,56,6
+
+Unable to extract for 5,164,5/5,5
+
+Unable to extract for 164,5,4,6
+
+Unable to extract for 2,1,5,164
+
+Unable to extract for 1,2,564/6,6
+
+Unable to extract for 2,66,364,4
+
+Unable to extract for 4,2,b7,1
+
+Unable to extract for b3,Y2,1,b3
+
+Unable to extract for b6,b56,b6,b56
+
+Unable to extract for 5,1,564,1
+
+Unable to extract for 6,3,6,b4
+
+Unable to extract for 164,1,57,1
+
+Unable to extract for 67,57/4,4,5
+
+Unable to extract for 3,7/3,27,5
+
+Unable to extract for 3,6,5,47
+
+Unable to extract for 4,16,27,164
+
+Unable to extract for 5,4,56/6,6
+
+Unable to extract for 1,47,56,37
+
+Unable to extract for 66,36,46,56
+
+Unable to extract for 4,365,6,365
+
+Unable to extract for 2,5/6,564/6,2
+
+Unable to extract for 57/6,67,M17,27
+
+Unable to extract for 57/4,464,1,57/4
+
+Unable to extract for 56/6,6,7/3,5/6
+
+Unable to extract for 1,57/4,4,b46
+
+Unable to extract for 5/2,2,265,5
+
+Unable to extract for 564,66,56/5,5/5
+
+Unable to extract for 4,164,4,5/6
+
+Unable to extract for 1,16,2,66
+
+Unable to extract for 56/6,164,56/6,6
+
+Unable to extract for 564,27,564,27
+
+Unable to extract for 6,664,4,3
+
+Unable to extract for b7,4,6,2
+
+Unable to extract for 1,4,47,37
+
+Unable to extract for 4,37,27,37
+
+Unable to extract for 365,1,56,67
+
+Unable to extract for 57/6,37,5/5,47
+
+Unable to extract for 36,542,16,564
+
+Unable to extract for 6,2,7,66
+
+Unable to extract for 164,57,642,164
+
+Unable to extract for 464,6,464,1
+
+Unable to extract for 17,M17,1,17
+
+Unable to extract for 2,b77,2,57/2
+
+Unable to extract for 5,1,77,5/6
+
+Unable to extract for b7,46,b57,1
+
+Unable to extract for 4,5,56,464
+
+Unable to extract for 464,4,464,5
+
+Unable to extract for 66,364,66,6
+
+Unable to extract for 67,b57,27,67
+
+Unable to extract for 56,164,Y6,6
+
+Unable to extract for 1,5/5,664,5/6
+
+Unable to extract for 1,164,b6,6
+
+Unable to extract for 1,164,242,265
+
+Unable to extract for 3,6,56/6,164
+
+Unable to extract for 6,36,L764,2
+
+Unable to extract for 47,365,465,27
+
+Unable to extract for 5/6,4,b6,6
+
+Unable to extract for 3,4/3,3,4/3
+
+Unable to extract for 4,5,6,26
+
+Unable to extract for b6,b77,b7,7
+
+Unable to extract for 6,56,1,26
+
+Unable to extract for 5,1,665,1
+
+Unable to extract for b6,2,4,1
+
+Unable to extract for b4,1,b6,1
+
+Unable to extract for 5,5/5,6,5/3
+
+Unable to extract for b3,b5,5,57
+
+Unable to extract for 1,57/6,6,7/5
+
+Unable to extract for 66,77,57/6,47
+
+Unable to extract for 542,7/6,67,142
+
+Unable to extract for 542,5,4,1
+
+Unable to extract for 6,1,2,5/6
+
+Unable to extract for 6,67,L26,164
+
+Unable to extract for 2,4,5,3
+
+Unable to extract for 242,7,6,56/6
+
+Unable to extract for 4,6,57/5,4
+
+Unable to extract for 4,5/6,47,5
+
+Unable to extract for 4,b7,b6,Y2
+
+Unable to extract for 37,47,77/5,642
+
+Unable to extract for b6,4,3,6
+
+Unable to extract for 67,5/5,1,b7
+
+Unable to extract for 27,1,4,27
+
+Unable to extract for 164,47,5/6,27
+
+Unable to extract for 2,16,47,5/6
+
+Unable to extract for 2,b7,1,b7
+
+Unable to extract for 17,4,5/5,57/5
+
+Unable to extract for 27,5/6,67,4
+
+Unable to extract for 47,5,27,564
+
+Unable to extract for 6,b6,1,5/6
+
+Unable to extract for 6,543/6,66,542/6
+
+Unable to extract for 4,1,142,56
+
+Unable to extract for 5,4,464,57
+
+Unable to extract for 27,37,47,4
+
+Unable to extract for 3,26,565/5,5
+
+Unable to extract for 56/6,M5,L26,D47
+
+Unable to extract for 37,4,27,16
+
+Unable to extract for 164,1,6,164
+
+Unable to extract for 1,17,46,5
+
+Unable to extract for b3,1,b6,4
+
+Unable to extract for 564,47,37,6
+
+Unable to extract for 364,3,5,6
+
+Unable to extract for 3,4,16,4
+
+Unable to extract for 6,36,46,6
+
+Unable to extract for 6,264,57/3,5/6
+
+Unable to extract for 16,b7,16,4
+
+Unable to extract for 67,5/5,27,67
+
+Unable to extract for 2,56/2,2,1
+
+Unable to extract for 56,1,L242,5/5
+
+Unable to extract for 5/5,3,2,4
+
+Unable to extract for 6,56,1,343
+
+Unable to extract for 1,2,27,2
+
+Unable to extract for 26,57,464,1
+
+Unable to extract for 57/6,6,57/4,4
+
+Unable to extract for 265,57,6,L7
+
+Unable to extract for 5,464,1,56
+
+Unable to extract for 6,1,46,564
+
+Unable to extract for 4,1,b6,b3
+
+Unable to extract for 27,56,664,6
+
+Unable to extract for 6,36,6,164
+
+Unable to extract for 542,5,4,464
+
+Unable to extract for 265,1,164,5
+
+Unable to extract for 4,7,37,57/2
+
+Unable to extract for 37,5,164,5
+
+Unable to extract for 47,5/6,6,b57
+
+Unable to extract for 17,665,4,1
+
+Unable to extract for 1,4,b7,1
+
+Unable to extract for 5,46,1,47
+
+Unable to extract for 6,1,5,b67
+
+Unable to extract for 47,664,2,242
+
+Unable to extract for 37,47,6,164
+
+Unable to extract for 5,542,16,1
+
+Unable to extract for 56,1,b37,4
+
+Unable to extract for 164,57,165,16
+
+Unable to extract for 37,664,6,67
+
+Unable to extract for 57/6,67,27,1
+
+Unable to extract for 6,b7,6,164
+
+Unable to extract for 164,5/2,1,46
+
+Unable to extract for 6,1,57/6,6
+
+Unable to extract for 665,17,L27,M77
+
+Unable to extract for 16,2,16,46
+
+Unable to extract for 4,265,47,265
+
+Unable to extract for 5,6,1,36
+
+Unable to extract for 16,5,6,4
+
+Unable to extract for 67,542,1,164
+
+Unable to extract for 4,3,27,37
+
+Unable to extract for b3,564,56/2,542/5
+
+Unable to extract for 1,47,37,27
+
+Unable to extract for 57/5,5,4,16
+
+Unable to extract for 164,37,6,1
+
+Unable to extract for 4,2,4,27
+
+Unable to extract for b7,1,5,27
+
+Unable to extract for 66,5,36,6
+
+Unable to extract for 5,3,2,1
+
+Unable to extract for 2,16,4,57

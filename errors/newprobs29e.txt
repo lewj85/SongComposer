@@ -1,0 +1,5 @@
+
+Unable to extract for 1,L27,4,37
+Unable to extract for 7,C164,7,C164
+Unable to extract for 47,442,67,37
+Unable to extract for 664,5/3,26,5/6
